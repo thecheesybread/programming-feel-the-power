@@ -106,7 +106,7 @@ MIDDLEWARE_CLASSES = (
     'projects.disable.DisableCSRF',
 )
 
-ROOT_URLCONF = 'proj1.urls'
+ROOT_URLCONF = 'projects.urls'
 
 TEMPLATE_DIRS = (
     os.path.join(ROOT_PATH, 'static'),
