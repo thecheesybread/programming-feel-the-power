@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en"> <!--<![endif]-->
+  <head>
+    <meta charset="utf-8" />
+
+    <!-- Set the viewport width to device width for mobile -->
+    <meta name="viewport" content="width=device-width" />
+
+    <title>{% block title %}Campus Tutor{% endblock %}</title>
+    
+    <!-- Included CSS Files -->
+    <link rel="stylesheet" href="/static/css/lib/bootstrap/bootstrap-responsive.css">
+    <link rel="stylesheet" href="/static/css/lib/bootstrap/bootstrap.css">
+
+    <!--[if lt IE 9]>
+	<link rel="stylesheet" href="/static/css/lib/foundation/ie.css">
+	<![endif]-->
+
+    <!-- IE Fix for HTML5 Tags -->
+    <!--[if lt IE 9]>
+	<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+    <!-- Included JS Files -->
+    <script src="/static/js/lib/jquery/jquery.js"></script>
+    <script src="/static/js/lib/bootstrap.js"></script>
+  </head>
+  {% csrf_token  %}
+  <body>
+      <div class="navbar">
+          <div class="navbar-inner">
+              <a class="brand" href="/">Home</a>
+              <ul class="nav">
+                  <li class="active"><a href="/proj1/">Project 1: Web Scraping</a></li>
+                  <li><a href="/proj2/">Project 2: Data Analysis</a></li>
+                  <li><a href="/proj3/">Project 3: Backend Web Framework</a></li>
+              </ul>
+          </div>
+      </div>
+      <div class="container-fluid">
+          {% block content %}{% endblock %}    
+      </div>
+
+  </body>
+</html>
