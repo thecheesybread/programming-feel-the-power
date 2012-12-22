@@ -4,8 +4,8 @@ from BeautifulSoup import BeautifulSoup, SoupStrainer
 '''this is the wrapper file for project 1. fill these functions out'''
 
 
-def identity(url):
-    return url
+def identity(word):
+    return word
 
 
 def get_urls(url):
