@@ -2,36 +2,36 @@
 {% block content %}
 {%autoescape off%}
 <script type="text/javascript">
-    counter = 0;
-    $(document).ready(function() {
+  counter = 0;
+  $(document).ready(function() {
     $('#submit_url').bind('keypress', function(e) {
-    if (e.keyCode == 13) {
-    counter ++;
-    e.preventDefault();
-    $.ajax({
-    type: 'POST',
-    dataType: 'text',
-    url: 'get_craigslist_info/',
-    data: JSON.stringify({'craigslist_url' : $('#submit_url').val()}),
-    dataType: 'text',
-    success: function(g) {
-    if (g == "ERROR") {
-    alert("Could not reach the URL you provided");
-    } else {
-    var craigslist_info = JSON.parse(g);
-    $('#craigslist_infos').append('<tr id="entry_' + counter + '"><td>' + craigslist_info.title + '</td> <td>' + craigslist_info.price + '</td> <td>' + craigslist_info.date + '</td> <td>' + craigslist_info.description + '</td> <td> <i id="delete_' + counter  + '" class="icon-remove delete"></i> </td> </tr>');
-    var counter_local = counter;
-    $('#delete_' + counter_local).click(function() {
-    $('#entry_' + counter_local).remove();
+      if (e.keyCode == 13) {
+        counter ++;
+        e.preventDefault();
+        $.ajax({
+          type: 'POST',
+          dataType: 'text',
+          url: 'get_craigslist_info/',
+          data: JSON.stringify({'craigslist_url' : $('#submit_url').val()}),
+          dataType: 'text',
+          success: function(g) {
+            if (g == "ERROR") {
+              alert("Could not reach the URL you provided");
+            } else {
+              var craigslist_info = JSON.parse(g);
+              $('#craigslist_infos').append('<tr id="entry_' + counter + '"><td>' + craigslist_info.title + '</td> <td>' + craigslist_info.price + '</td> <td>' + craigslist_info.date + '</td> <td>' + craigslist_info.description + '</td> <td> <i id="delete_' + counter  + '" class="icon-remove delete"></i> </td> </tr>');
+              var counter_local = counter;
+              $('#delete_' + counter_local).click(function() {
+                $('#entry_' + counter_local).remove();
+              });
+            }
+          }
+        })
+        
+        $('#submit_url').val('');
+      }
     });
-    }
-    }
-    })
-
-    $('#submit_url').val('');
-    }
-    });
-    });
+  });
 </script>
 {{text}}
 <h2> Compare Craigslist ads </h2>
