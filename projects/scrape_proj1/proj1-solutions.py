@@ -9,7 +9,7 @@ def identity(word):
     return word
 
 
-def get_urls_on_page(url):
+def get_urls(url):
     http = httplib2.Http()
     status, response = http.request(url)
     all_urls = []
@@ -50,13 +50,7 @@ def get_price(html):
     price = 'price'
     return price
 
-def get_description(html):
-    #fill out here
-    description = 'description'
-    return description
-
-
-def get_craigslist_info(url):
+def get_info(url):
     http = httplib2.Http()
     header, html = http.request(url)
     print header
@@ -64,8 +58,7 @@ def get_craigslist_info(url):
     body = get_body(html)
     date = get_date(html)
     price = get_price(html)
-    description = get_description(html)
-    info = {'title' : title, 'body' : body, 'date' : date, 'price' : price, 'description' : description}
+    info = {'title' : title, 'body' : body, 'date' : date, 'price' : price}
     return info
 
 
