@@ -1,4 +1,4 @@
-import httplib2
+import urllib2
 from BeautifulSoup import BeautifulSoup, SoupStrainer
 import sys
 
@@ -8,22 +8,16 @@ def identity(word):
     return word
 
 def get_urls_on_page(url):
-    http = httplib2.Http()
-    header, content = http.request(url)
+    response = urllib2.urlopen(url)
     all_urls = []
-    for link in BeautifulSoup(content, parseOnlyThese=SoupStrainer('a')):
+    for link in BeautifulSoup(response, parseOnlyThese=SoupStrainer('a')):
         if link.has_key('href'):
             all_urls.append(link['href'])
     return all_urls
 
 def containsWord(url, word):
-    h = httplib2.Http()
-    header, content = h.request("http://reddit.com", "GET")
-    print content
-    if word in content:
-        print True
-    else:
-        print False
+    response = urllib2.urlopen(url)
+    print word in response
 
 def get_title(html):
     '''Given the html text of a craigslist post, returns the title'''
@@ -52,13 +46,11 @@ def get_description(html):
 
 def get_craigslist_info(url):
     '''Given the url of a craigslist post, gets the html and calls other functions that were defined to get the title, body, date, and description of the craigslist post'''
-    http = httplib2.Http()
-    header, html = http.request(url)
-    print header
-    title = get_title(html)
-    date = get_date(html)
-    price = get_price(html)
-    description = get_description(html)
+    response = urllib2.urlopen(url)
+    title = get_title(response)
+    date = get_date(response)
+    price = get_price(response)
+    description = get_description(response)
     info = {'title' : title, 'date' : date, 'price' : price, 'description' : description}
     return info
 
@@ -67,11 +59,9 @@ def collect_info():
     pass
 
 def collect_east_bay_apartments():
-    http = httplib2.Http()
     base_url = 'http://sfbay.craigslist.org/eby/apa/'
     count = 0
     all_east_bay_apartments = []
-
     while True:
         if count == 0:
             current_url = base_url
