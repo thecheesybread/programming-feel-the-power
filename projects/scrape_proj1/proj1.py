@@ -1,5 +1,5 @@
 import urllib2
-from BeautifulSoup import BeautifulSoup, SoupStrainer
+from bs4 import BeautifulSoup, SoupStrainer
 import sys
 
 '''this is the wrapper file for project 1. fill these functions out'''
@@ -87,4 +87,4 @@ if __name__ == '__main__':
     #print get_craigslist_info(sys.argv[1])
     print collect_east_bay_apartments()
 
-    
+

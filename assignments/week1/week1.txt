@@ -1,0 +1,11 @@
+Log in using your username and password
+Open the "Terminal" program (use the search)
+  If it's not on the dock, put it there
+**Learn how Terminal is just a directory system, same as the explorer but text based
+**Play around with the Python interpreter
+***Figure out what text editor they should use
+Go to http://learnpythonthehardway.org/book/
+Read "The Hard Way Is Easier"
+If you're on your own machine, do Exercise 0
+Do exercises 1-4
+Fill out the file calc.py
