@@ -1,11 +1,145 @@
+GETTING STARTED:
+
 Log in using your username and password
 Open the "Terminal" program (use the search)
-  If it's not on the dock, put it there
-**Learn how Terminal is just a directory system, same as the explorer but text based
-**Play around with the Python interpreter
-***Figure out what text editor they should use
+If Terminal is not on the dock, put it there
+
+------------------------------------------------------------------------------
+THE TERMINAL:
+
+The Terminal program is just another way to navigate your files and folders.
+It looks scary because it's text-based. But it's actually really simple!
+Just type a command and press RETURN to see the results.
+
+For example, type "ls" (stands for "list") and then RETURN.
+This should list the files and folders in your current folder.
+
+If you want to move into another folder, type "cd" followed by the name of the
+folder. For example, "cd Library" (followed by RETURN) will move you into the
+"Library" folder.  cd stands for "change directory." Directory is just another
+name for folder.
+
+In order to get back to where you just were, type "cd .."
+".." just means "the directory that contains the current directory".
+
+Hint: the TAB key autocompletes names of files and folders. So you can type
+"cd Lib" and then TAB and the command should turn into "cd Library".
+
+------------------------------------------------------------------------------
+THE PYTHON INTERPRETER:
+
+In the Terminal, type "python" to enter the Python interpreter (it doesn't
+matter what directory you're in). Now whatever you type will not be navigating
+your file system but will rather be run as a Python program. In other words,
+we're in CODE MODE. Note that "ls" and "cd" no longer work. But we can type
+anything that's a valid Python expression!
+
+Try typing the following things (press RETURN after each line):
+  2 + 3
+  24 - 3 * 5
+  "never eat " + "soggy woofles"
+  "amazing!" * 5
+
+You'll notice that the interpreter functions as a basic calculator, among other
+things. Sequences of words enclosed in quotation marks are called "strings".
+
+Now try typing these:
+  foo = 23
+  foo
+  bar = 50
+  foo * 2
+  foo + bar
+
+foo and bar are called variables. Notice that they store values that you can
+use again later. It doesn't matter that we called them "foo" and "bar", you can
+just as easily make a variable named "baboon", for example. Also, variables can
+hold any Python data type, not just numbers. Try storing a string in a variable!
+
+Experiment with the interpreter for a bit. Can you cause it to error? How?
+When you're ready to leave, press CTRL+D to return to the "shell" (that's just
+another name for the Terminal).
+
+Playing around with the interpreter is a great way to test simple Python
+programs. The problem is, once our programs get more complex it will be
+cumbersome to type them into the interpreter line by line.
+
+------------------------------------------------------------------------------
+PYTHON FILES:
+
+Therefore, it's time to learn how to run programs from a file. Basically what we
+will be doing is typing a sequence of Python commands into a text file, and then
+"running" the entire file after we're done.
+
+Let's start by organizing our folders a bit. Back in the shell (the Terminal),
+type "cd" and press RETURN. This will move us back to our "home" directory.
+You can type "ls" again to see what's in here if you want. Now, we want to make
+a new directory called "work". The command to make a directory is "mkdir". So
+type "mkdir work" (followed, as always, by RETURN). Now, the "ls" command should
+show our new work directory.
+
+Do "cd work" to move into this new directory we just made. The "ls" command
+should show nothing now, since "work" is currently empty.
+
+Let's fix that. Don't close the Terminal, but open Aquamacs (use search again).
+If Aquamacs is not on the dock, put it there.
+
+Aquamacs is just a text editor like Microsoft Word, except Aquamacs is made for
+writing code instead of essays. Therefore it has some nifty features like
+formatting and coloring our code for us.
+
+Type the following line into Aquamacs:
+print "Hello, world!"
+
+Save the file in the "work" folder you just made, and name it "hello.py".
+
+Now go back to your Terminal window. If you're still inside the "work" directory
+and you type "ls", you should now see the file "hello.py".
+Type "python hello.py" to execute the code inside the file. You should see
+"Hello, world!" show up in the Terminal. If so, you just successfully ran your
+first python program from a file. Congratulations!
+
+------------------------------------------------------------------------------
+BOOK WORK:
+
+It's time for some book work. You're ready for it.
+
 Go to http://learnpythonthehardway.org/book/
-Read "The Hard Way Is Easier"
-If you're on your own machine, do Exercise 0
-Do exercises 1-4
-Fill out the file calc.py
+
+Read "The Hard Way Is Easier". Really read it. This is important.
+
+For all exercises:
+Type out the exercises! As a general rule, only copy-paste long strings (in
+other words, only copy-paste the stuff between quotation marks). Typing out the
+rest of the program makes ALL the difference in how much you learn. I'm serious
+about this. Don't just copy-paste the exercises.
+
+The Study Drills are optional, don't worry too much about them.
+DO read the Common Student Questions, and make sure you understand the answers
+to them.
+
+If you feel like you need more review, do exercises 1-4. If not, just do
+exercise 4 to make sure you fully understand what we taught you earlier.
+
+Now do exercises 29-31. This is new material. Ask for help if you get stuck!
+Note: Tabs are important. Make sure you get all the tabs right.
+Another note: Exercise 31 includes some notation (in particular, the raw_input
+function) that you haven't seen before. Try to figure out what this does by
+running the program, but ask if you need help!
+
+See an instructor once you're done with the exercises to get checked off.
+
+------------------------------------------------------------------------------
+CHATBOT:
+
+Go to the course website and download assignment1.zip into your work directory.
+Navigate back to your work directory in the Terminal and type
+"unzip assignment1.zip" to unzip it.
+
+The assignment1 directory should now appear in your work directory.
+"cd assignment1" to get inside it. "ls" to see what files it contains.
+The only file you need to edit is "chat_bot.py". Open this file in Aquamacs.
+
+Fill out the file chat_bot.py according to the comments inside.
+
+When you're done, see an instructor to get checked off.
+

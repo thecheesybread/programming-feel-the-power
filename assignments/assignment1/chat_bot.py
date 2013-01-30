@@ -1,5 +1,5 @@
-gmail_username = "programmingdecal@gmail.com"
-gmail_password = "benbenben"
+gmail_username = "progbot0@gmail.com"
+gmail_password = "closetotheedge"
 def respond(user, text):
     print user
     if text == "hello":
