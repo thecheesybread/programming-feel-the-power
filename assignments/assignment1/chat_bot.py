@@ -1,10 +1,15 @@
 gmail_username = "programmingdecal@gmail.com"
 gmail_password = "benbenben"
-def respond(input):
-    if input == "victor":
-        return "sucks dick"
-    if input == "anders":
-        return "cup"
+def respond(user, text):
+    print user
+    if text == "hello":
+        return "hi"
+    elif text == "bye":
+        return "good bye"
+    elif text == "tell me why":
+        return "it ain't nothing but a heartache"
+    else:
+        return "some random response"
 
 
 def main():
@@ -12,7 +17,7 @@ def main():
         user_input = raw_input('You: ');
         if user_input == 'quit':
             break;
-        print 'Computer: ' + respond(user_input)
+        print 'Computer: ' + respond("terminal", user_input)
 
 
 if __name__ == '__main__':
