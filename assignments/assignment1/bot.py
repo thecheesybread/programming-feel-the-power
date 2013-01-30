@@ -34,7 +34,7 @@ i18n['en']["UNKNOWN USER"]="I do not know you. Register first."
 def messageCB(conn,mess):
     text=mess.getBody()
     user=mess.getFrom()
-    conn.send(xmpp.Message(mess.getFrom(),respond(str(user).split('/')[0], text)))
+    conn.send(xmpp.Message(mess.getFrom(),respond(text)))
 
 
 for i in globals().keys():

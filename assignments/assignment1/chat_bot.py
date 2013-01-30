@@ -1,10 +1,9 @@
-def respond(user, text):
-    #text = text.lower()
+def respond(text):
     if text == "hey" or text == "hello":
-        return "hey"
+        return "hey, how are you?"
     elif text == "tell me why":
         return "it ain't nothing but a heartache"
-    elif "bye" in text:
+    elif text == "bye":
         return "bye"
     else:
         return "some random response"
@@ -23,7 +22,7 @@ def main():
         user_input = raw_input('You: ');
         if user_input == 'quit':
             break;
-        print 'Computer: ' + respond("terminal", user_input)
+        print 'Computer: ' + respond(user_input)
 
 
 if __name__ == '__main__':

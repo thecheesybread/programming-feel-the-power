@@ -1,4 +1,4 @@
-def respond(user, text):
+def respond(text):
     text = text.lower()
     if text == "hey" or text == "hello":
         return "hey! how are you?"
@@ -34,7 +34,7 @@ def main():
         user_input = raw_input('You: ');
         if user_input == 'quit':
             break;
-        print 'Computer: ' + respond("terminal", user_input)
+        print 'Computer: ' + respond(user_input)
 
 
 if __name__ == '__main__':

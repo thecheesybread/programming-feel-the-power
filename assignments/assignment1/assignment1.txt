@@ -129,7 +129,7 @@ running the program, but ask if you need help!
 See an instructor once you're done with the exercises to get checked off.
 
 ------------------------------------------------------------------------------
-CHATBOT:
+RUNNING CHATBOT:
 
 Go to the course website and download assignment1.zip into your work directory.
 Navigate back to your work directory in the Terminal and type
@@ -137,19 +137,67 @@ Navigate back to your work directory in the Terminal and type
 
 The assignment1 directory should now appear in your work directory.
 "cd assignment1" to get inside it. "ls" to see what files it contains.
+
+Run the chat_bot program by typing "python chat_bot.py" into the terminal.
+If you type "hello" and press RETURN, what happens? What about "bye"?
+Now try "tell me why".
+
+To quit the program, type "quit". Alternately you can do CTRL+C. In fact,
+CTRL+C will quit most programs in the Terminal.
+
+Now let's see how this stuff works.
 The only file you need to edit is "chat_bot.py". Open this file in Aquamacs.
 
-Fill out the file chat_bot.py according to the comments inside.
+The line "def respond(text):" at the top of the file is called a function
+definition. Everyting indented after this line is part of the "respond"
+function. The variable "text" is called an argument to this function. For now,
+all you need to know is that "text" is a string that the user types as input.
 
-You can do "python chat_bot.py" to test your changes.
+In order to leave a function, we use "return". In addition, our respond function
+has an output (the response to the input text), so we have to return a response.
+For example, when we return "hello", our chat bot will respond with "hello" to
+the given input.
 
-After you're satisfied with the responses, make a new gmail account to run your
-bot (by the way, you don't actually need to enter a phone number or current
-email address to make an account). Fill in the gmail_username and gmail_password
-variables at the top of chat_bot.py with the email (including "@gmail.com") and
-password of the account you just created. Now, if you run "python bot.py" your
-bot will actually gchat with anyone who chats it! You will have to log onto the
-bot's gmail account and accept invitations to chat for this to work.
+Read through the "respond" function in chat_bot.py line by line. Make sure you
+understand how literally every line in this function works. If anything is
+mysterious to you, ask us to explain!
+
+------------------------------------------------------------------------------
+EDITING CHATBOT:
+
+Now it's time for you to edit the file to implement some responses. You can
+customize this as much as you want, but at a minimum do the following things:
+
+1. Customize the responses to "hello" and "bye" and customize the default
+response. In other words, give your bot some personality!
+
+2. Add a response if the user says "good". That way, if someone responds to
+"how are you?" with "good", your bot at least has something to say.
+
+3. Make your bot respond the same no matter the capitalization of the input. For
+example, if a user types "HEy", your bot should still respond with a greeting.
+Hint: One way to do this is to convert the "text" variable to a lowercase string
+at the top of the function. You may have to use Google to look up how to do this
+in Python.
+
+4. Make your bot say goodbye if the string "bye" occurs anywhere in the user
+input. For example, if a user says "okay, bye!" your bot should still say
+goodbye back. In this case we say "bye" is a substring of the input text. You
+may have to Google to figure this out as well.
 
 When you're done, see an instructor to get checked off.
+
+------------------------------------------------------------------------------
+USING CHATBOT WITH GMAIL:
+
+Fill in the gmail_username and gmail_password variables in chat_bot.py with the
+email (including "@gmail.com") and password of your gmail account.
+
+If you don't want to use your account (or don't have one), just make a new gmail
+account to use (by the way, you don't actually need to enter a phone number or
+current email address to make an account).
+
+Now, if you run "python bot.py" your bot will actually gchat with anyone who
+chats it! You will have to log onto the bot's gmail account and accept
+invitations to chat for this to work.
 
