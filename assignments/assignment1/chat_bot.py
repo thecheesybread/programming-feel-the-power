@@ -1,7 +1,6 @@
 gmail_username = "progbot0@gmail.com"
 gmail_password = "closetotheedge"
 def respond(user, text):
-    print user
     if text == "hello":
         return "hi"
     elif text == "bye":

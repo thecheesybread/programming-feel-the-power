@@ -141,5 +141,15 @@ The only file you need to edit is "chat_bot.py". Open this file in Aquamacs.
 
 Fill out the file chat_bot.py according to the comments inside.
 
+You can do "python chat_bot.py" to test your changes.
+
+After you're satisfied with the responses, make a new gmail account to run your
+bot (by the way, you don't actually need to enter a phone number or current
+email address to make an account). Fill in the gmail_username and gmail_password
+variables at the top of chat_bot.py with the email (including "@gmail.com") and
+password of the account you just created. Now, if you run "python bot.py" your
+bot will actually gchat with anyone who chats it! You will have to log onto the
+bot's gmail account and accept invitations to chat for this to work.
+
 When you're done, see an instructor to get checked off.
 
