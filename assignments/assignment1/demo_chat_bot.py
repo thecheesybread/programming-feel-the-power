@@ -1,13 +1,24 @@
 def respond(user, text):
-    #text = text.lower()
+    text = text.lower()
     if text == "hey" or text == "hello":
-        return "hey"
+        return "hey! how are you?"
+    elif text[-1] == "?":
+        if text.split(" ")[0] == "why":
+            return "because i love crocodiles"
+        else:
+            return "i'm not sure how to answer that question"
+    elif text.split(" ")[0] == "you're" or text.split(" ")[0] == "you":
+        return "no, " + text + "!"
+    elif "good" in text:
+        return "that's good!"
+    elif "bye" in text:
+        return "cya later, alligator ;)"
     elif text == "tell me why":
         return "it ain't nothing but a heartache"
-    elif "bye" in text:
-        return "bye"
+    elif len(text.split(" ")) == 1:
+        return text + " indeed"
     else:
-        return "some random response"
+        return "so what?"
 
 
 
