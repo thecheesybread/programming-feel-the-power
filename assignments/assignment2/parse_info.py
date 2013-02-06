@@ -36,10 +36,10 @@ for series_id, item_code in series_id_to_item_code.items():
     series_id_to_item_name[series_id] = item_code_to_item_name[item_code]
 
 
-#input_file = open('cu.data.1.AllItems.txt', 'r')
+input_file = open('cu.data.1.AllItems.txt', 'r')
 #input_file = open('cu.data.0.Current.txt', 'r')
 #input_file = open('cu.data.Education.txt', 'r')
-input_file = open('cu.data.19.PopulationSize.txt', 'r')
+#input_file = open('cu.data.19.PopulationSize.txt', 'r')
 print input_file.readline()
 data = {}
 for line in input_file:
