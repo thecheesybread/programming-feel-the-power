@@ -1,937 +1,2129 @@
 Item name,Year,Average Value
-Land-line interstate toll calls,2003,57.0538461538
-Land-line interstate toll calls,1997,77.3384615385
-Land-line interstate toll calls,1986,88.4384615385
-Land-line interstate toll calls,1987,75.3
-Land-line interstate toll calls,1984,99.1692307692
-Land-line interstate toll calls,1985,94.9384615385
-Land-line interstate toll calls,1982,99.3538461538
-Land-line interstate toll calls,1983,101.507692308
-Land-line interstate toll calls,1980,83.2692307692
-Land-line interstate toll calls,1981,90.2307692308
-Land-line interstate toll calls,1988,72.2615384615
-Land-line interstate toll calls,1989,70.0076923077
-Land-line interstate toll calls,1991,67.6384615385
-Land-line interstate toll calls,1990,68.2076923077
-Land-line interstate toll calls,1993,69.6384615385
-Land-line interstate toll calls,1992,67.9923076923
-Land-line interstate toll calls,1995,74.9307692308
-Land-line interstate toll calls,1994,75.2076923077
-Land-line interstate toll calls,1979,82.1
-Land-line interstate toll calls,1978,82.7230769231
-Land-line interstate toll calls,1977,83.4
-Land-line interstate toll calls,1998,75.4615384615
-Land-line interstate toll calls,1996,77.9307692308
-Land-line interstate toll calls,2002,62.1692307692
-Land-line interstate toll calls,1999,73.3615384615
-Land-line interstate toll calls,2000,67.9538461538
-Land-line interstate toll calls,2001,65.2538461538
-Land-line interstate toll calls,2006,48.8923076923
-Land-line interstate toll calls,2007,51.2510769231
-Land-line interstate toll calls,2004,51.3307692308
-Land-line interstate toll calls,2005,48.2
-Land-line interstate toll calls,2008,53.6316923077
-Land-line interstate toll calls,2009,56.5620769231
-Education and communication commodities,2011,95.5513333333
-Education and communication commodities,2010,98.9960833333
-Education and communication commodities,2012,92.70025
-Information and information processing,1993,97.6846153846
-Information and information processing,1995,98.6692307692
-Information and information processing,1994,98.5923076923
-Information and information processing,1997,100.353846154
-Information and information processing,1996,99.5230769231
-Information and information processing,1999,95.4538461538
-Information and information processing,1998,98.5230769231
-Information and information processing,2002,90.8076923077
-Information and information processing,2003,87.8
-Information and information processing,2000,92.8230769231
-Information and information processing,2001,92.2846153846
-Information and information processing,2006,81.6615384615
-Information and information processing,2007,80.7202307692
-Information and information processing,2004,84.6307692308
-Information and information processing,2005,82.5615384615
-Information and information processing,2008,81.3518461538
-Information and information processing,2009,81.9441538462
-Information and information processing,2011,79.9635384615
-Information and information processing,2010,81.5126153846
-Information and information processing,2012,79.549
-Land-line telephone services,2009,100.0
-Land-line telephone services,2011,103.325384615
-Land-line telephone services,2010,101.611692308
-Land-line telephone services,2012,105.582307692
-Personal computers and peripheral equipment,2006,121.075
-Personal computers and peripheral equipment,2007,108.391166667
-Personal computers and peripheral equipment,2005,143.433333333
-Personal computers and peripheral equipment,2008,94.922
-Personal computers and peripheral equipment,2009,82.27625
-Personal computers and peripheral equipment,2011,68.8781666667
-Personal computers and peripheral equipment,2010,76.3628333333
-Personal computers and peripheral equipment,2012,62.3211666667
-Wireless telephone services,1997,100.0
-Wireless telephone services,1999,84.9384615385
-Wireless telephone services,1998,95.1230769231
-Wireless telephone services,2002,67.3769230769
-Wireless telephone services,2003,66.8230769231
-Wireless telephone services,2000,75.9846153846
-Wireless telephone services,2001,68.1307692308
-Wireless telephone services,2006,64.5538461538
-Wireless telephone services,2007,64.383
-Wireless telephone services,2004,66.2153846154
-Wireless telephone services,2005,64.9769230769
-Wireless telephone services,2008,64.2398461538
-Wireless telephone services,2009,64.2571538462
-Wireless telephone services,2011,60.1471538462
-Wireless telephone services,2010,62.3950769231
-Wireless telephone services,2012,59.6780769231
-"Information technology, hardware and services",2006,12.425
-"Information technology, hardware and services",2007,10.59625
-"Information technology, hardware and services",2008,10.0605
-"Information technology, hardware and services",2009,9.67108333333
-"Information technology, hardware and services",2011,9.02916666667
-"Information technology, hardware and services",2010,9.41275
-"Information technology, hardware and services",2012,8.73791666667
-Education and communication services,2011,102.61775
-Education and communication services,2010,100.977916667
-Education and communication services,2012,104.932916667
-Communication,1993,96.7384615385
-Communication,1995,98.8384615385
-Communication,1994,97.5615384615
-Communication,1997,100.315384615
-Communication,1996,99.5923076923
-Communication,1999,95.9846153846
-Communication,1998,98.6538461538
-Communication,2002,92.2923076923
-Communication,2003,89.7076923077
-Communication,2000,93.5538461538
-Communication,2001,93.3307692308
-Communication,2006,84.1307692308
-Communication,2007,83.3669230769
-Communication,2004,86.6923076923
-Communication,2005,84.7307692308
-Communication,2008,84.185
-Communication,2009,84.9540769231
-Communication,2011,83.345
-Communication,2010,84.6805384615
-Communication,2012,83.0598461538
-Educational books and supplies,2003,335.416666667
-Educational books and supplies,1997,238.375
-Educational books and supplies,1986,128.116666667
-Educational books and supplies,1987,138.116666667
-Educational books and supplies,1984,108.775
-Educational books and supplies,1985,118.208333333
-Educational books and supplies,1968,35.425
-Educational books and supplies,1969,37.3916666667
-Educational books and supplies,1980,71.375
-Educational books and supplies,1981,80.2916666667
-Educational books and supplies,1967,33.6916666667
-Educational books and supplies,1988,148.1
-Educational books and supplies,1989,158.025
-Educational books and supplies,1996,226.916666667
-Educational books and supplies,2011,529.569166667
-Educational books and supplies,2010,505.596166667
-Educational books and supplies,2012,562.577083333
-Educational books and supplies,2005,365.616666667
-Educational books and supplies,1982,90.95
-Educational books and supplies,1983,100.333333333
-Educational books and supplies,1991,180.308333333
-Educational books and supplies,1990,171.291666667
-Educational books and supplies,1993,197.625
-Educational books and supplies,1992,190.366666667
-Educational books and supplies,1995,214.416666667
-Educational books and supplies,1994,205.533333333
-Educational books and supplies,1979,65.7083333333
-Educational books and supplies,1978,61.6416666667
-Educational books and supplies,1977,56.875
-Educational books and supplies,1976,53.6666666667
-Educational books and supplies,1975,50.2666666667
-Educational books and supplies,1974,47.2166666667
-Educational books and supplies,1973,45.5666666667
-Educational books and supplies,1972,44.15
-Educational books and supplies,1971,41.425
-Educational books and supplies,1970,38.7916666667
-Educational books and supplies,2002,317.575
-Educational books and supplies,1999,261.716666667
-Educational books and supplies,2000,279.925
-Educational books and supplies,2001,295.933333333
-Educational books and supplies,2006,388.841666667
-Educational books and supplies,2007,420.39
-Educational books and supplies,2004,351.008333333
-Educational books and supplies,1998,250.741666667
-Educational books and supplies,2008,450.162583333
-Educational books and supplies,2009,482.071166667
-"Tuition, other school fees, and childcare",1986,129.591666667
-"Tuition, other school fees, and childcare",1987,139.983333333
-"Tuition, other school fees, and childcare",1984,109.766666667
-"Tuition, other school fees, and childcare",1985,119.716666667
-"Tuition, other school fees, and childcare",1982,90.5083333333
-"Tuition, other school fees, and childcare",1983,99.6833333333
-"Tuition, other school fees, and childcare",1980,71.1916666667
-"Tuition, other school fees, and childcare",1981,79.9083333333
-"Tuition, other school fees, and childcare",1988,151.041666667
-"Tuition, other school fees, and childcare",1989,162.675
-"Tuition, other school fees, and childcare",2011,597.199833333
-"Tuition, other school fees, and childcare",2010,573.195416667
-"Tuition, other school fees, and childcare",2012,620.982416667
-"Tuition, other school fees, and childcare",1994,239.841666667
-"Tuition, other school fees, and childcare",1991,191.341666667
-"Tuition, other school fees, and childcare",1990,175.691666667
-"Tuition, other school fees, and childcare",1993,225.291666667
-"Tuition, other school fees, and childcare",1992,208.458333333
-"Tuition, other school fees, and childcare",1995,253.833333333
-"Tuition, other school fees, and childcare",1997,280.366666667
-"Tuition, other school fees, and childcare",1979,64.675
-"Tuition, other school fees, and childcare",1978,59.7833333333
-"Tuition, other school fees, and childcare",1999,308.358333333
-"Tuition, other school fees, and childcare",1998,294.25
-"Tuition, other school fees, and childcare",1996,267.141666667
-"Tuition, other school fees, and childcare",2002,362.05
-"Tuition, other school fees, and childcare",2003,386.6
-"Tuition, other school fees, and childcare",2000,323.925
-"Tuition, other school fees, and childcare",2001,341.025
-"Tuition, other school fees, and childcare",2006,468.025
-"Tuition, other school fees, and childcare",2007,494.055666667
-"Tuition, other school fees, and childcare",2004,414.25
-"Tuition, other school fees, and childcare",2005,440.833333333
-"Tuition, other school fees, and childcare",2008,522.08325
-"Tuition, other school fees, and childcare",2009,548.977083333
-Education,1993,78.3692307692
-Education,1995,88.0230769231
-Education,1994,83.2769230769
-Education,1997,97.2846153846
-Education,1996,92.6769230769
-Education,1999,106.969230769
-Education,1998,102.107692308
-Education,2002,125.969230769
-Education,2003,134.361538462
-Education,2000,112.530769231
-Education,2001,118.515384615
-Education,2006,162.084615385
-Education,2007,171.387769231
-Education,2004,143.715384615
-Education,2005,152.669230769
-Education,2008,181.276615385
-Education,2009,190.857230769
-Education,2011,207.767846154
-Education,2010,199.337
-Education,2012,216.328076923
-Postage,2007,206.061833333
-Postage,2008,213.120416667
-Postage,2009,223.65525
-Postage,2011,238.7435
-Postage,2010,229.901916667
-Postage,2012,247.168333333
-Delivery services,1999,108.766666667
-Delivery services,1998,103.633333333
-Delivery services,2002,127.916666667
-Delivery services,2003,134.875
-Delivery services,2000,114.591666667
-Delivery services,2001,123.05
-Delivery services,2006,172.866666667
-Delivery services,2007,183.936416667
-Delivery services,2004,150.066666667
-Delivery services,2005,160.175
-Delivery services,2008,210.97575
-Delivery services,2009,197.831583333
-Delivery services,2011,252.309916667
-Delivery services,2010,225.869083333
-Delivery services,2012,265.675
-Technical and business school tuition and fees,1999,109.933333333
-Technical and business school tuition and fees,2002,128.825
-Technical and business school tuition and fees,2003,138.308333333
-Technical and business school tuition and fees,2000,116.125
-Technical and business school tuition and fees,2001,122.475
-Technical and business school tuition and fees,2006,170.816666667
-Technical and business school tuition and fees,2007,177.645666667
-Technical and business school tuition and fees,2004,149.308333333
-Technical and business school tuition and fees,2005,161.65
-Technical and business school tuition and fees,2008,185.79375
-Technical and business school tuition and fees,2009,193.90875
-Technical and business school tuition and fees,2011,210.85425
-Technical and business school tuition and fees,2010,200.808
-Technical and business school tuition and fees,2012,219.8775
-College tuition and fees,1986,129.633333333
-College tuition and fees,1987,139.408333333
-College tuition and fees,1984,109.941666667
-College tuition and fees,1985,119.941666667
-College tuition and fees,1982,90.325
-College tuition and fees,1983,99.725
-College tuition and fees,1980,70.8
-College tuition and fees,1981,79.575
-College tuition and fees,1988,149.975
-College tuition and fees,1989,161.858333333
-College tuition and fees,2011,670.214083333
-College tuition and fees,2010,638.20675
-College tuition and fees,2012,702.757916667
-College tuition and fees,1994,249.8
-College tuition and fees,1991,192.733333333
-College tuition and fees,1990,174.933333333
-College tuition and fees,1993,233.475
-College tuition and fees,1992,213.475
-College tuition and fees,1995,264.833333333
-College tuition and fees,1997,294.083333333
-College tuition and fees,1979,64.6583333333
-College tuition and fees,1978,59.8916666667
-College tuition and fees,1999,318.633333333
-College tuition and fees,1998,306.508333333
-College tuition and fees,1996,279.816666667
-College tuition and fees,2002,372.541666667
-College tuition and fees,2003,403.75
-College tuition and fees,2000,331.8
-College tuition and fees,2001,348.733333333
-College tuition and fees,2006,506.908333333
-College tuition and fees,2007,538.642333333
-College tuition and fees,2004,442.05
-College tuition and fees,2005,475.083333333
-College tuition and fees,2008,572.252083333
-College tuition and fees,2009,606.643416667
-Elementary and high school tuition and fees,1986,129.2
-Elementary and high school tuition and fees,1987,141.241666667
-Elementary and high school tuition and fees,1984,109.325
-Elementary and high school tuition and fees,1985,119.041666667
-Elementary and high school tuition and fees,1982,91.025
-Elementary and high school tuition and fees,1983,99.625
-Elementary and high school tuition and fees,1980,72.3333333333
-Elementary and high school tuition and fees,1981,81.0
-Elementary and high school tuition and fees,1988,154.541666667
-Elementary and high school tuition and fees,1989,167.908333333
-Elementary and high school tuition and fees,2011,648.113916667
-Elementary and high school tuition and fees,2010,624.506083333
-Elementary and high school tuition and fees,2012,671.227166667
-Elementary and high school tuition and fees,1994,242.625
-Elementary and high school tuition and fees,1991,198.016666667
-Elementary and high school tuition and fees,1990,182.766666667
-Elementary and high school tuition and fees,1993,228.95
-Elementary and high school tuition and fees,1992,213.658333333
-Elementary and high school tuition and fees,1995,259.183333333
-Elementary and high school tuition and fees,1997,288.016666667
-Elementary and high school tuition and fees,1979,64.5666666667
-Elementary and high school tuition and fees,1978,59.3333333333
-Elementary and high school tuition and fees,1999,327.25
-Elementary and high school tuition and fees,1998,307.833333333
-Elementary and high school tuition and fees,1996,272.783333333
-Elementary and high school tuition and fees,2002,398.391666667
-Elementary and high school tuition and fees,2003,424.866666667
-Elementary and high school tuition and fees,2000,349.833333333
-Elementary and high school tuition and fees,2001,372.558333333
-Elementary and high school tuition and fees,2006,511.191666667
-Elementary and high school tuition and fees,2007,539.431416667
-Elementary and high school tuition and fees,2004,453.466666667
-Elementary and high school tuition and fees,2005,483.141666667
-Elementary and high school tuition and fees,2008,570.57625
-Elementary and high school tuition and fees,2009,600.432666667
-Child care and nursery school,2011,247.071333333
-Child care and nursery school,2010,240.444416667
-Child care and nursery school,2012,253.147833333
-Child care and nursery school,1991,103.183333333
-Child care and nursery school,1993,113.583333333
-Child care and nursery school,1992,108.325
-Child care and nursery school,1995,124.533333333
-Child care and nursery school,1994,119.55
-Child care and nursery school,1997,134.333333333
-Child care and nursery school,1996,129.391666667
-Child care and nursery school,1999,148.133333333
-Child care and nursery school,1998,140.875
-Child care and nursery school,2002,172.5
-Child care and nursery school,2003,180.325
-Child care and nursery school,2000,156.233333333
-Child care and nursery school,2001,164.108333333
-Child care and nursery school,2006,205.983333333
-Child care and nursery school,2007,214.8805
-Child care and nursery school,2004,187.125
-Child care and nursery school,2005,195.35
-Child care and nursery school,2008,224.641583333
-Child care and nursery school,2009,232.84
-Information technology commodities,2011,89.3835833333
-Information technology commodities,2010,97.428
-Information technology commodities,2012,82.1594166667
-Information and information processing,1993,97.7
-Information and information processing,1995,98.6666666667
-Information and information processing,1994,98.6
-Information and information processing,1997,100.366666667
-Information and information processing,1996,99.5
-Education and communication,1993,85.5
-Education and communication,1995,92.2
-Education and communication,1994,88.7666666667
-Education and communication,1997,98.4333333333
-Education and communication,1996,95.3333333333
-Education and communication,1999,101.2
-Education and communication,1998,100.3
-Education and communication,2002,107.9
-Education and communication,2003,109.8
-Education and communication,2000,102.5
-Education and communication,2001,105.233333333
-Education and communication,2006,116.766666667
-Education and communication,2007,119.577
-Education and communication,2004,111.6
-Education and communication,2005,113.7
-Education and communication,2008,123.631
-Education and communication,2009,127.393333333
-Education and communication,2011,131.466333333
-Education and communication,2010,129.919
-Education and communication,2012,133.844
-Education and communication commodities,2011,95.5623333333
-Education and communication commodities,2010,99.002
-Education and communication commodities,2012,92.707
-Postage and delivery services,1999,103.091666667
-Postage and delivery services,1998,100.066666667
-Postage and delivery services,2002,113.65
-Postage and delivery services,2003,119.341666667
-Postage and delivery services,2000,103.233333333
-Postage and delivery services,2001,107.333333333
-Postage and delivery services,2006,126.591666667
-Postage and delivery services,2007,130.099916667
-Postage and delivery services,2004,119.858333333
-Postage and delivery services,2005,120.158333333
-Postage and delivery services,2008,135.505083333
-Postage and delivery services,2009,141.182083333
-Postage and delivery services,2011,152.1855
-Postage and delivery services,2010,145.942583333
-Postage and delivery services,2012,157.72825
-Education and communication,1993,85.4692307692
-Education and communication,1995,92.1923076923
-Education and communication,1994,88.7769230769
-Education and communication,1997,98.4384615385
-Education and communication,1996,95.3230769231
-Education and communication,1999,101.176923077
-Education and communication,1998,100.284615385
-Education and communication,2002,107.892307692
-Education and communication,2003,109.784615385
-Education and communication,2000,102.507692308
-Education and communication,2001,105.238461538
-Education and communication,2006,116.769230769
-Education and communication,2007,119.576692308
-Education and communication,2004,111.584615385
-Education and communication,2005,113.684615385
-Education and communication,2008,123.631384615
-Education and communication,2009,127.393307692
-Education and communication,2011,131.466384615
-Education and communication,2010,129.919153846
-Education and communication,2012,133.844307692
-Elementary and high school tuition and fees,2003,424.892307692
-Elementary and high school tuition and fees,1997,288.1
-Elementary and high school tuition and fees,1986,129.238461538
-Elementary and high school tuition and fees,1987,141.292307692
-Elementary and high school tuition and fees,1984,109.353846154
-Elementary and high school tuition and fees,1985,119.061538462
-Elementary and high school tuition and fees,1982,91.0076923077
-Elementary and high school tuition and fees,1983,99.6153846154
-Elementary and high school tuition and fees,1980,72.3461538462
-Elementary and high school tuition and fees,1981,81.0307692308
-Elementary and high school tuition and fees,1988,154.584615385
-Elementary and high school tuition and fees,1989,167.961538462
-Elementary and high school tuition and fees,2011,648.102384615
-Elementary and high school tuition and fees,2010,624.473076923
-Elementary and high school tuition and fees,2012,671.214
-Elementary and high school tuition and fees,1991,198.030769231
-Elementary and high school tuition and fees,1990,182.807692308
-Elementary and high school tuition and fees,1993,228.930769231
-Elementary and high school tuition and fees,1992,213.661538462
-Elementary and high school tuition and fees,1995,259.223076923
-Elementary and high school tuition and fees,1994,242.630769231
-Elementary and high school tuition and fees,1979,64.6
-Elementary and high school tuition and fees,1978,59.3307692308
-Elementary and high school tuition and fees,1977,57.6
-Elementary and high school tuition and fees,1998,307.892307692
-Elementary and high school tuition and fees,1996,272.815384615
-Elementary and high school tuition and fees,2002,398.415384615
-Elementary and high school tuition and fees,1999,327.315384615
-Elementary and high school tuition and fees,2000,349.892307692
-Elementary and high school tuition and fees,2001,372.615384615
-Elementary and high school tuition and fees,2006,511.223076923
-Elementary and high school tuition and fees,2007,539.442
-Elementary and high school tuition and fees,2004,453.5
-Elementary and high school tuition and fees,2005,483.169230769
-Elementary and high school tuition and fees,2008,570.583
-Elementary and high school tuition and fees,2009,600.395692308
-Postage and delivery services,1997,100.0
-Postage and delivery services,1999,103.084615385
-Postage and delivery services,1998,100.084615385
-Postage and delivery services,2002,113.669230769
-Postage and delivery services,2003,119.369230769
-Postage and delivery services,2000,103.192307692
-Postage and delivery services,2001,107.315384615
-Postage and delivery services,2006,126.592307692
-Postage and delivery services,2007,130.103230769
-Postage and delivery services,2004,119.823076923
-Postage and delivery services,2005,120.169230769
-Postage and delivery services,2008,135.491615385
-Postage and delivery services,2009,141.154307692
-Postage and delivery services,2011,152.161076923
-Postage and delivery services,2010,145.909076923
-Postage and delivery services,2012,157.702076923
-Communication,1993,96.7333333333
-Communication,1995,98.8333333333
-Communication,1994,97.5666666667
-Communication,1997,100.333333333
-Communication,1996,99.6
-Education,1993,78.3666666667
-Education,1995,88.0333333333
-Education,1994,83.2666666667
-Education,1997,97.3
-Education,1996,92.6666666667
-Land-line intrastate toll calls,2003,77.3153846154
-Land-line intrastate toll calls,1997,93.9230769231
-Land-line intrastate toll calls,1986,106.792307692
-Land-line intrastate toll calls,1987,104.715384615
-Land-line intrastate toll calls,1984,105.823076923
-Land-line intrastate toll calls,1985,106.776923077
-Land-line intrastate toll calls,1982,93.7846153846
-Land-line intrastate toll calls,1983,100.369230769
-Land-line intrastate toll calls,1980,85.1923076923
-Land-line intrastate toll calls,1981,87.7230769231
-Land-line intrastate toll calls,1988,101.461538462
-Land-line intrastate toll calls,1989,97.0230769231
-Land-line intrastate toll calls,1991,93.1230769231
-Land-line intrastate toll calls,1990,95.0692307692
-Land-line intrastate toll calls,1993,90.7230769231
-Land-line intrastate toll calls,1992,91.4153846154
-Land-line intrastate toll calls,1995,86.0230769231
-Land-line intrastate toll calls,1994,90.2384615385
-Land-line intrastate toll calls,1979,86.3538461538
-Land-line intrastate toll calls,1978,85.5461538462
-Land-line intrastate toll calls,1977,85.4
-Land-line intrastate toll calls,1998,95.7
-Land-line intrastate toll calls,1996,89.4
-Land-line intrastate toll calls,2002,84.8307692308
-Land-line intrastate toll calls,1999,94.7230769231
-Land-line intrastate toll calls,2000,90.7230769231
-Land-line intrastate toll calls,2001,88.0923076923
-Land-line intrastate toll calls,2006,70.3153846154
-Land-line intrastate toll calls,2007,75.1151538462
-Land-line intrastate toll calls,2004,71.2
-Land-line intrastate toll calls,2005,68.9846153846
-Land-line intrastate toll calls,2008,80.3826153846
-Land-line intrastate toll calls,2009,84.5662307692
-Information technology commodities,2009,100.0
-Information technology commodities,2011,89.4030769231
-Information technology commodities,2010,97.4405384615
-Information technology commodities,2012,82.1700769231
-College tuition and fees,2003,403.853846154
-College tuition and fees,1997,294.1
-College tuition and fees,1986,129.630769231
-College tuition and fees,1987,139.384615385
-College tuition and fees,1984,109.938461538
-College tuition and fees,1985,119.923076923
-College tuition and fees,1982,90.3230769231
-College tuition and fees,1983,99.7230769231
-College tuition and fees,1980,70.8307692308
-College tuition and fees,1981,79.6230769231
-College tuition and fees,1988,150.0
-College tuition and fees,1989,161.9
-College tuition and fees,2011,670.250615385
-College tuition and fees,2010,638.187923077
-College tuition and fees,2012,702.757692308
-College tuition and fees,1991,192.784615385
-College tuition and fees,1990,174.969230769
-College tuition and fees,1993,233.492307692
-College tuition and fees,1992,213.515384615
-College tuition and fees,1995,264.815384615
-College tuition and fees,1994,249.792307692
-College tuition and fees,1979,64.6692307692
-College tuition and fees,1978,59.9076923077
-College tuition and fees,1977,57.9
-College tuition and fees,1998,306.523076923
-College tuition and fees,1996,279.8
-College tuition and fees,2002,372.630769231
-College tuition and fees,1999,318.692307692
-College tuition and fees,2000,331.869230769
-College tuition and fees,2001,348.830769231
-College tuition and fees,2006,506.969230769
-College tuition and fees,2007,538.687230769
-College tuition and fees,2004,442.115384615
-College tuition and fees,2005,475.123076923
-College tuition and fees,2008,572.282923077
-College tuition and fees,2009,606.673769231
-Delivery services,1997,100.0
-Delivery services,1999,108.738461538
-Delivery services,1998,103.615384615
-Delivery services,2002,127.861538462
-Delivery services,2003,134.869230769
-Delivery services,2000,114.530769231
-Delivery services,2001,122.976923077
-Delivery services,2006,172.869230769
-Delivery services,2007,183.936384615
-Delivery services,2004,150.069230769
-Delivery services,2005,160.230769231
-Delivery services,2008,210.975769231
-Delivery services,2009,197.831615385
-Delivery services,2011,252.309923077
-Delivery services,2010,225.869076923
-Delivery services,2012,265.675
-Postage,1989,125.1
-Postage,1967,29.68
-Postage,1935,12.9
-Postage,1960,23.58
-Postage,1961,23.74
-Postage,1998,160.3
-Postage,1992,145.3
-Postage,1997,160.3
-Postage,1962,23.9
-Postage,1985,108.792307692
-Postage,1963,27.82
-Postage,1986,110.2
-Postage,1987,110.2
-Postage,1948,14.5
-Postage,1949,15.68
-Postage,1968,34.02
-Postage,1969,34.7
-Postage,1980,76.2
-Postage,1981,89.4
-Postage,1942,12.9
-Postage,1943,12.9
-Postage,1940,12.9
-Postage,1941,12.9
-Postage,1946,14.7
-Postage,1947,14.5
-Postage,1944,14.2
-Postage,1945,14.8
-Postage,2003,190.9
-Postage,1996,160.3
-Postage,2011,238.702538462
-Postage,2010,229.846
-Postage,2012,247.124230769
-Postage,1999,165.1
-Postage,2005,190.9
-Postage,1984,100.0
-Postage,1955,19.3
-Postage,1954,19.3
-Postage,1957,19.4
-Postage,1956,19.3
-Postage,1937,12.9
-Postage,1936,12.9
-Postage,1953,18.08
-Postage,1952,17.7
-Postage,1982,100.0
-Postage,1939,12.9
-Postage,1938,12.9
-Postage,1959,22.7
-Postage,1958,21.04
-Postage,1983,100.0
-Postage,1991,143.615384615
-Postage,1990,125.1
-Postage,1993,145.3
-Postage,1988,121.376923077
-Postage,1995,160.3
-Postage,1994,145.3
-Postage,1979,76.2
-Postage,1978,72.2846153846
-Postage,1977,66.8
-Postage,1976,65.8307692308
-Postage,1975,51.9461538462
-Postage,1974,50.4923076923
-Postage,1973,43.4
-Postage,1972,43.4
-Postage,1971,40.9
-Postage,1970,34.9
-Postage,2002,181.8
-Postage,1964,28.5333333333
-Postage,2000,165.1
-Postage,2001,171.530769231
-Postage,2006,201.1
-Postage,2007,206.067230769
-Postage,2004,190.9
-Postage,1965,28.6
-Postage,1951,16.18
-Postage,2008,213.098076923
-Postage,2009,223.608384615
-Postage,1966,28.82
-Postage,1950,15.7
-Information and information processing,2006,81.65
-Information and information processing,2007,80.71925
-Information and information processing,2008,81.3508333333
-Information and information processing,2009,81.9423333333
-Information and information processing,2011,79.96175
-Information and information processing,2010,81.5116666667
-Information and information processing,2012,79.5476666667
-"Tuition, other school fees, and childcare",2003,386.653846154
-"Tuition, other school fees, and childcare",1997,280.376923077
-"Tuition, other school fees, and childcare",1986,129.607692308
-"Tuition, other school fees, and childcare",1987,139.961538462
-"Tuition, other school fees, and childcare",1984,109.769230769
-"Tuition, other school fees, and childcare",1985,119.707692308
-"Tuition, other school fees, and childcare",1982,90.5307692308
-"Tuition, other school fees, and childcare",1983,99.7
-"Tuition, other school fees, and childcare",1980,71.2230769231
-"Tuition, other school fees, and childcare",1981,79.9461538462
-"Tuition, other school fees, and childcare",1988,151.038461538
-"Tuition, other school fees, and childcare",1989,162.7
-"Tuition, other school fees, and childcare",2011,597.208153846
-"Tuition, other school fees, and childcare",2010,573.174076923
-"Tuition, other school fees, and childcare",2012,620.978846154
-"Tuition, other school fees, and childcare",1991,191.384615385
-"Tuition, other school fees, and childcare",1990,175.715384615
-"Tuition, other school fees, and childcare",1993,225.3
-"Tuition, other school fees, and childcare",1992,208.469230769
-"Tuition, other school fees, and childcare",1995,253.830769231
-"Tuition, other school fees, and childcare",1994,239.823076923
-"Tuition, other school fees, and childcare",1979,64.6923076923
-"Tuition, other school fees, and childcare",1978,59.7923076923
-"Tuition, other school fees, and childcare",1977,57.8
-"Tuition, other school fees, and childcare",1998,294.238461538
-"Tuition, other school fees, and childcare",1996,267.123076923
-"Tuition, other school fees, and childcare",2002,362.107692308
-"Tuition, other school fees, and childcare",1999,308.384615385
-"Tuition, other school fees, and childcare",2000,323.969230769
-"Tuition, other school fees, and childcare",2001,341.092307692
-"Tuition, other school fees, and childcare",2006,468.061538462
-"Tuition, other school fees, and childcare",2007,494.079076923
-"Tuition, other school fees, and childcare",2004,414.292307692
-"Tuition, other school fees, and childcare",2005,440.861538462
-"Tuition, other school fees, and childcare",2008,522.097769231
-"Tuition, other school fees, and childcare",2009,548.971153846
-Child care and nursery school,2011,247.064153846
-Child care and nursery school,2010,240.431615385
-Child care and nursery school,2012,253.140769231
-Child care and nursery school,1991,103.192307692
-Child care and nursery school,1990,100.0
-Child care and nursery school,1993,113.576923077
-Child care and nursery school,1992,108.315384615
-Child care and nursery school,1995,124.530769231
-Child care and nursery school,1994,119.561538462
-Child care and nursery school,1997,134.338461538
-Child care and nursery school,1996,129.4
-Child care and nursery school,1999,148.138461538
-Child care and nursery school,1998,140.884615385
-Child care and nursery school,2002,172.515384615
-Child care and nursery school,2003,180.323076923
-Child care and nursery school,2000,156.253846154
-Child care and nursery school,2001,164.123076923
-Child care and nursery school,2006,206.0
-Child care and nursery school,2007,214.877076923
-Child care and nursery school,2004,187.123076923
-Child care and nursery school,2005,195.353846154
-Child care and nursery school,2008,224.635230769
-Child care and nursery school,2009,232.827692308
-Educational books and supplies,2003,335.4
-Educational books and supplies,1997,238.407692308
-Educational books and supplies,1986,128.115384615
-Educational books and supplies,1987,138.123076923
-Educational books and supplies,1984,108.738461538
-Educational books and supplies,1985,118.2
-Educational books and supplies,1968,35.4461538462
-Educational books and supplies,1969,37.4
-Educational books and supplies,1980,71.3923076923
-Educational books and supplies,1981,80.2692307692
-Educational books and supplies,1967,33.6846153846
-Educational books and supplies,1988,148.092307692
-Educational books and supplies,1989,158.023076923
-Educational books and supplies,1996,226.923076923
-Educational books and supplies,2011,529.544846154
-Educational books and supplies,2010,505.569
-Educational books and supplies,2012,562.554615385
-Educational books and supplies,2005,365.638461538
-Educational books and supplies,1982,90.9461538462
-Educational books and supplies,1983,100.323076923
-Educational books and supplies,1991,180.284615385
-Educational books and supplies,1990,171.292307692
-Educational books and supplies,1993,197.576923077
-Educational books and supplies,1992,190.338461538
-Educational books and supplies,1995,214.4
-Educational books and supplies,1994,205.515384615
-Educational books and supplies,1979,65.6923076923
-Educational books and supplies,1978,61.6230769231
-Educational books and supplies,1977,56.9
-Educational books and supplies,1976,53.6538461538
-Educational books and supplies,1975,50.2769230769
-Educational books and supplies,1974,47.2230769231
-Educational books and supplies,1973,45.5692307692
-Educational books and supplies,1972,44.1538461538
-Educational books and supplies,1971,41.4307692308
-Educational books and supplies,1970,38.7846153846
-Educational books and supplies,2002,317.553846154
-Educational books and supplies,1999,261.707692308
-Educational books and supplies,2000,279.884615385
-Educational books and supplies,2001,295.907692308
-Educational books and supplies,2006,388.892307692
-Educational books and supplies,2007,420.417615385
-Educational books and supplies,2004,351.023076923
-Educational books and supplies,1998,250.753846154
-Educational books and supplies,2008,450.186692308
-Educational books and supplies,2009,482.071923077
-Telephone services,1997,100.0
-Telephone services,1999,100.053846154
-Telephone services,1998,100.669230769
-Telephone services,2002,99.6846153846
-Telephone services,2003,98.3076923077
-Telephone services,2000,98.4846153846
-Telephone services,2001,99.2692307692
-Telephone services,2006,95.7615384615
-Telephone services,2007,98.247
-Telephone services,2004,95.7692307692
-Telephone services,2005,94.8538461538
-Telephone services,2008,100.450692308
-Telephone services,2009,102.391538462
-Telephone services,2011,101.208692308
-Telephone services,2010,102.378769231
-Telephone services,2012,101.685
-Technical and business school tuition and fees,1997,100.0
-Technical and business school tuition and fees,1999,109.938461538
-Technical and business school tuition and fees,1998,102.407692308
-Technical and business school tuition and fees,2002,128.830769231
-Technical and business school tuition and fees,2003,138.330769231
-Technical and business school tuition and fees,2000,116.138461538
-Technical and business school tuition and fees,2001,122.492307692
-Technical and business school tuition and fees,2006,170.823076923
-Technical and business school tuition and fees,2007,177.665923077
-Technical and business school tuition and fees,2004,149.323076923
-Technical and business school tuition and fees,2005,161.661538462
-Technical and business school tuition and fees,2008,185.811923077
-Technical and business school tuition and fees,2009,193.92
-Technical and business school tuition and fees,2011,210.867846154
-Technical and business school tuition and fees,2010,200.813923077
-Technical and business school tuition and fees,2012,219.875153846
-Education and communication,1993,85.5666666667
-Education and communication,1995,92.2333333333
-Education and communication,1994,88.8666666667
-Education and communication,1997,98.4916666667
-Education and communication,1996,95.3916666667
-Education and communication,1999,101.183333333
-Education and communication,1998,100.275
-Education and communication,2002,107.891666667
-Education and communication,2003,109.791666667
-Education and communication,2000,102.533333333
-Education and communication,2001,105.241666667
-Education and communication,2006,116.75
-Education and communication,2007,119.573
-Education and communication,2004,111.566666667
-Education and communication,2005,113.691666667
-Education and communication,2008,123.629083333
-Education and communication,2009,127.393333333
-Education and communication,2011,131.464916667
-Education and communication,2010,129.921583333
-Education and communication,2012,133.844416667
-"Telephone hardware, calculators, and other consumer information items",1997,100.0
-"Telephone hardware, calculators, and other consumer information items",1999,84.4307692308
-"Telephone hardware, calculators, and other consumer information items",1998,95.0769230769
-"Telephone hardware, calculators, and other consumer information items",2002,62.2
-"Telephone hardware, calculators, and other consumer information items",2003,55.5153846154
-"Telephone hardware, calculators, and other consumer information items",2000,76.1230769231
-"Telephone hardware, calculators, and other consumer information items",2001,68.3384615385
-"Telephone hardware, calculators, and other consumer information items",2006,41.6692307692
-"Telephone hardware, calculators, and other consumer information items",2007,38.6125384615
-"Telephone hardware, calculators, and other consumer information items",2004,49.7538461538
-"Telephone hardware, calculators, and other consumer information items",2005,45.7923076923
-"Telephone hardware, calculators, and other consumer information items",2008,36.9643846154
-"Telephone hardware, calculators, and other consumer information items",2009,35.3116153846
-"Telephone hardware, calculators, and other consumer information items",2011,32.8628461538
-"Telephone hardware, calculators, and other consumer information items",2010,34.0125384615
-"Telephone hardware, calculators, and other consumer information items",2012,31.1010769231
-"Information technology, hardware and services",1988,100.0
-"Information technology, hardware and services",1989,96.2769230769
-"Information technology, hardware and services",2011,9.03007692308
-"Information technology, hardware and services",2010,9.41315384615
-"Information technology, hardware and services",2012,8.73861538462
-"Information technology, hardware and services",1991,88.6384615385
-"Information technology, hardware and services",1990,93.4846153846
-"Information technology, hardware and services",1993,78.8230769231
-"Information technology, hardware and services",1992,83.6846153846
-"Information technology, hardware and services",1995,63.8230769231
-"Information technology, hardware and services",1994,71.9692307692
-"Information technology, hardware and services",1997,50.0769230769
-"Information technology, hardware and services",1996,57.2307692308
-"Information technology, hardware and services",1999,30.5384615385
-"Information technology, hardware and services",1998,39.8692307692
-"Information technology, hardware and services",2002,18.2846153846
-"Information technology, hardware and services",2003,16.1384615385
-"Information technology, hardware and services",2000,25.8923076923
-"Information technology, hardware and services",2001,21.3384615385
-"Information technology, hardware and services",2006,12.4538461538
-"Information technology, hardware and services",2007,10.5968461538
-"Information technology, hardware and services",2004,14.8076923077
-"Information technology, hardware and services",2005,13.6076923077
-"Information technology, hardware and services",2008,10.0611538462
-"Information technology, hardware and services",2009,9.67207692308
-Personal computers and peripheral equipment,1997,1119.0
-Personal computers and peripheral equipment,1999,598.453846154
-Personal computers and peripheral equipment,1998,875.023076923
-Personal computers and peripheral equipment,2002,248.069230769
-Personal computers and peripheral equipment,2003,196.653846154
-Personal computers and peripheral equipment,2000,459.515384615
-Personal computers and peripheral equipment,2001,330.607692308
-Personal computers and peripheral equipment,2006,121.076923077
-Personal computers and peripheral equipment,2007,108.408769231
-Personal computers and peripheral equipment,2004,170.953846154
-Personal computers and peripheral equipment,2005,143.461538462
-Personal computers and peripheral equipment,2008,94.9443846154
-Personal computers and peripheral equipment,2009,82.304
-Personal computers and peripheral equipment,2011,68.9006153846
-Personal computers and peripheral equipment,2010,76.3769230769
-Personal computers and peripheral equipment,2012,62.3335384615
-Education and communication commodities,2009,100.0
-Education and communication commodities,2011,95.5622307692
-Education and communication commodities,2010,99.0020769231
-Education and communication commodities,2012,92.7068461538
-Internet services and electronic information providers,1997,100.0
-Internet services and electronic information providers,1999,92.2384615385
-Internet services and electronic information providers,1998,102.461538462
-Internet services and electronic information providers,2002,98.9
-Internet services and electronic information providers,2003,99.8076923077
-Internet services and electronic information providers,2000,96.3846153846
-Internet services and electronic information providers,2001,98.0615384615
-Internet services and electronic information providers,2006,92.1692307692
-Internet services and electronic information providers,2007,73.2468461538
-Internet services and electronic information providers,2004,97.3615384615
-Internet services and electronic information providers,2005,95.7076923077
-Internet services and electronic information providers,2008,73.9122307692
-Internet services and electronic information providers,2009,76.5348461538
-Internet services and electronic information providers,2011,76.302
-Internet services and electronic information providers,2010,77.0268461538
-Internet services and electronic information providers,2012,76.4866153846
-Computer software and accessories,1997,100.0
-Computer software and accessories,1999,88.4076923077
-Computer software and accessories,1998,95.4846153846
-Computer software and accessories,2002,73.9769230769
-Computer software and accessories,2003,67.4076923077
-Computer software and accessories,2000,85.4307692308
-Computer software and accessories,2001,79.1076923077
-Computer software and accessories,2006,55.3846153846
-Computer software and accessories,2007,52.5116153846
-Computer software and accessories,2004,62.4307692308
-Computer software and accessories,2005,58.9384615385
-Computer software and accessories,2008,50.6410769231
-Computer software and accessories,2009,49.9426153846
-Computer software and accessories,2011,43.0570769231
-Computer software and accessories,2010,46.4287692308
-Computer software and accessories,2012,40.9796923077
-Education and communication services,2011,102.618
-Education and communication services,2010,100.975333333
-Education and communication services,2012,104.932333333
-Education,1993,78.45
-Education,1995,88.0083333333
-Education,1994,83.3
-Education,1997,97.2666666667
-Education,1996,92.675
-Education,1999,106.975
-Education,1998,102.1
-Education,2002,125.941666667
-Education,2003,134.366666667
-Education,2000,112.516666667
-Education,2001,118.483333333
-Education,2006,162.075
-Education,2007,171.379333333
-Education,2004,143.683333333
-Education,2005,152.675
-Education,2008,181.271333333
-Education,2009,190.85925
-Education,2011,207.765583333
-Education,2010,199.344583333
-Education,2012,216.329833333
-Communication,1999,96.0
-Communication,1998,98.65
-Communication,2002,92.2916666667
-Communication,2003,89.7083333333
-Communication,2000,93.5416666667
-Communication,2001,93.3333333333
-Communication,2006,84.1083333333
-Communication,2007,83.3659166667
-Communication,2004,86.6916666667
-Communication,2005,84.725
-Communication,2008,84.1843333333
-Communication,2009,84.953
-Communication,2011,83.344
-Communication,2010,84.6805833333
-Communication,2012,83.0591666667
+Other goods and services,1986,117.263636364
+Other goods and services,1987,113.9375
+Other goods and services,1984,106.9
+Other goods and services,1977,61.1
+Other goods and services,1982,92.4285714286
+Other goods and services,1983,101.442857143
+Other goods and services,1980,75.4428571429
+Other goods and services,1981,82.5857142857
+Other goods and services,1979,68.6285714286
+Other goods and services,1988,121.65625
+Other goods and services,1989,130.778125
+Other goods and services,2011,297.14
+Other goods and services,2010,291.328458333
+Other goods and services,2012,303.889270833
+Other goods and services,1985,112.6
+Other goods and services,1991,152.8875
+Other goods and services,1990,141.4875
+Other goods and services,1993,171.121875
+Other goods and services,1992,162.7875
+Other goods and services,1995,183.021875
+Other goods and services,1994,175.109375
+Other goods and services,1997,197.224242424
+Other goods and services,1996,191.15625
+Other goods and services,1999,193.270833333
+Other goods and services,1998,176.88125
+Other goods and services,1978,63.2857142857
+Other goods and services,2002,219.377083333
+Other goods and services,2003,223.483333333
+Other goods and services,2000,202.775
+Other goods and services,2001,211.55
+Other goods and services,2006,242.166666667
+Other goods and services,2007,250.440395833
+Other goods and services,2004,228.091666667
+Other goods and services,2005,235.0125
+Other goods and services,2008,260.050020833
+Other goods and services,2009,280.0581875
+"Gasoline, unleaded premium",1986,80.8941176471
+"Gasoline, unleaded premium",1987,97.43125
+"Gasoline, unleaded premium",1984,98.38125
+"Gasoline, unleaded premium",1985,98.2375
+"Gasoline, unleaded premium",1982,102.208333333
+"Gasoline, unleaded premium",1983,99.4083333333
+"Gasoline, unleaded premium",1988,98.55625
+"Gasoline, unleaded premium",1989,107.6375
+"Gasoline, unleaded premium",2011,320.8835
+"Gasoline, unleaded premium",2010,256.866416667
+"Gasoline, unleaded premium",2012,331.70775
+"Gasoline, unleaded premium",1991,119.603125
+"Gasoline, unleaded premium",1990,121.8625
+"Gasoline, unleaded premium",1993,117.81875
+"Gasoline, unleaded premium",1992,119.009375
+"Gasoline, unleaded premium",1995,120.290625
+"Gasoline, unleaded premium",1994,118.415625
+"Gasoline, unleaded premium",1997,124.815151515
+"Gasoline, unleaded premium",1996,125.890625
+"Gasoline, unleaded premium",1999,112.875
+"Gasoline, unleaded premium",1998,103.975
+"Gasoline, unleaded premium",2002,128.4
+"Gasoline, unleaded premium",2003,147.8
+"Gasoline, unleaded premium",2000,141.73125
+"Gasoline, unleaded premium",2001,136.989583333
+"Gasoline, unleaded premium",2006,235.78125
+"Gasoline, unleaded premium",2007,254.447520833
+"Gasoline, unleaded premium",2004,173.108333333
+"Gasoline, unleaded premium",2005,210.025
+"Gasoline, unleaded premium",2008,296.210625
+"Gasoline, unleaded premium",2009,218.864229167
+Nondurables less food,1986,97.2272727273
+Nondurables less food,1987,102.325
+Nondurables less food,1984,101.54
+Nondurables less food,1977,63.4
+Nondurables less food,1982,98.3714285714
+Nondurables less food,1983,100.2
+Nondurables less food,1980,88.6571428571
+Nondurables less food,1981,97.2571428571
+Nondurables less food,1979,74.4285714286
+Nondurables less food,1988,106.8875
+Nondurables less food,1989,112.99375
+Nondurables less food,2011,195.742125
+Nondurables less food,2010,178.806041667
+Nondurables less food,2012,200.507145833
+Nondurables less food,1985,103.62
+Nondurables less food,1991,126.075
+Nondurables less food,1990,121.43125
+Nondurables less food,1993,130.9625
+Nondurables less food,1992,128.90625
+Nondurables less food,1995,132.6625
+Nondurables less food,1994,131.171875
+Nondurables less food,1997,136.645454545
+Nondurables less food,1996,136.034375
+Nondurables less food,1999,128.925
+Nondurables less food,1998,123.872916667
+Nondurables less food,1978,64.8857142857
+Nondurables less food,2002,136.210416667
+Nondurables less food,2003,140.50625
+Nondurables less food,2000,137.716666667
+Nondurables less food,2001,137.945833333
+Nondurables less food,2006,165.672916667
+Nondurables less food,2007,171.034270833
+Nondurables less food,2004,147.385416667
+Nondurables less food,2005,158.120833333
+Nondurables less food,2008,183.3153125
+Nondurables less food,2009,168.300104167
+Rent of primary residence,1986,113.618181818
+Rent of primary residence,1987,109.8125
+Rent of primary residence,1984,104.49
+Rent of primary residence,1977,69.4
+Rent of primary residence,1982,95.9
+Rent of primary residence,1983,100.071428571
+Rent of primary residence,1980,82.5428571429
+Rent of primary residence,1981,89.7714285714
+Rent of primary residence,1979,77.2571428571
+Rent of primary residence,1988,113.65
+Rent of primary residence,1989,117.6625
+Rent of primary residence,2011,192.188041667
+Rent of primary residence,2010,188.93275
+Rent of primary residence,2012,197.48025
+Rent of primary residence,1985,109.84
+Rent of primary residence,1991,126.35
+Rent of primary residence,1990,122.140625
+Rent of primary residence,1993,132.915625
+Rent of primary residence,1992,129.346875
+Rent of primary residence,1995,140.76875
+Rent of primary residence,1994,136.653125
+Rent of primary residence,1997,147.13030303
+Rent of primary residence,1996,144.753125
+Rent of primary residence,1999,139.216666667
+Rent of primary residence,1998,135.4875
+Rent of primary residence,1978,71.9428571429
+Rent of primary residence,2002,153.302083333
+Rent of primary residence,2003,157.25
+Rent of primary residence,2000,143.358333333
+Rent of primary residence,2001,148.5875
+Rent of primary residence,2006,171.38125
+Rent of primary residence,2007,178.0991875
+Rent of primary residence,2004,160.989583333
+Rent of primary residence,2005,165.5375
+Rent of primary residence,2008,183.948166667
+Rent of primary residence,2009,188.251729167
+Electricity,1986,109.035294118
+Electricity,1987,109.25625
+Electricity,1984,104.6375
+Electricity,1985,107.5375
+Electricity,1982,94.8166666667
+Electricity,1983,100.508333333
+Electricity,1988,110.025
+Electricity,1989,112.79375
+Electricity,2011,184.4805
+Electricity,2010,179.898270833
+Electricity,2012,184.8690625
+Electricity,1991,119.503125
+Electricity,1990,115.575
+Electricity,1993,124.21875
+Electricity,1992,121.3625
+Electricity,1995,127.103125
+Electricity,1994,124.9125
+Electricity,1997,127.603030303
+Electricity,1996,128.528125
+Electricity,1999,116.941666667
+Electricity,1998,117.735416667
+Electricity,2002,126.366666667
+Electricity,2003,129.472916667
+Electricity,2000,118.875
+Electricity,2001,126.429166667
+Electricity,2006,156.347916667
+Electricity,2007,162.929354167
+Electricity,2004,132.139583333
+Electricity,2005,139.977083333
+Electricity,2008,174.067770833
+Electricity,2009,179.876375
+Owners' equivalent rent of residences,1986,113.636363636
+Owners' equivalent rent of residences,1987,110.653125
+Owners' equivalent rent of residences,1984,105.77
+Owners' equivalent rent of residences,1985,110.08
+Owners' equivalent rent of residences,1982,100.0
+Owners' equivalent rent of residences,1983,102.028571429
+Owners' equivalent rent of residences,1988,115.7875
+Owners' equivalent rent of residences,1989,121.09375
+Owners' equivalent rent of residences,2011,193.707145833
+Owners' equivalent rent of residences,2010,191.811291667
+Owners' equivalent rent of residences,2012,197.951458333
+Owners' equivalent rent of residences,1991,132.328125
+Owners' equivalent rent of residences,1990,127.75
+Owners' equivalent rent of residences,1993,140.9
+Owners' equivalent rent of residences,1992,136.20625
+Owners' equivalent rent of residences,1995,152.096875
+Owners' equivalent rent of residences,1994,146.0
+Owners' equivalent rent of residences,1997,160.015151515
+Owners' equivalent rent of residences,1996,157.615625
+Owners' equivalent rent of residences,1999,148.460416667
+Owners' equivalent rent of residences,1998,144.864583333
+Owners' equivalent rent of residences,2002,162.797916667
+Owners' equivalent rent of residences,2003,165.866666667
+Owners' equivalent rent of residences,2000,152.354166667
+Owners' equivalent rent of residences,2001,157.304166667
+Owners' equivalent rent of residences,2006,178.4375
+Owners' equivalent rent of residences,2007,184.105791667
+Owners' equivalent rent of residences,2004,168.860416667
+Owners' equivalent rent of residences,2005,172.554166667
+Owners' equivalent rent of residences,2008,189.032229167
+Owners' equivalent rent of residences,2009,192.125520833
+Housing,1986,107.690909091
+Housing,1987,106.540625
+Housing,1984,103.0
+Housing,1977,59.9
+Housing,1982,97.8571428571
+Housing,1983,99.5714285714
+Housing,1980,79.5285714286
+Housing,1981,88.2142857143
+Housing,1979,70.2571428571
+Housing,1988,110.125
+Housing,1989,113.846875
+Housing,2011,177.275333333
+Housing,2010,175.065854167
+Housing,2012,180.47725
+Housing,1985,106.35
+Housing,1991,123.471875
+Housing,1990,119.165625
+Housing,1993,130.0625
+Housing,1992,126.65
+Housing,1995,137.453125
+Housing,1994,133.521875
+Housing,1997,143.903030303
+Housing,1996,141.93125
+Housing,1999,135.30625
+Housing,1998,132.770833333
+Housing,1978,62.9571428571
+Housing,2002,146.910416667
+Housing,2003,150.139583333
+Housing,2000,139.379166667
+Housing,2001,144.275
+Housing,2006,164.195833333
+Housing,2007,169.1475625
+Housing,2004,153.454166667
+Housing,2005,158.208333333
+Housing,2008,174.93975
+Housing,2009,175.8521875
+Recreation services,2009,100.0
+Recreation services,2011,100.992395833
+Recreation services,2010,100.4636875
+Recreation services,2012,104.3928125
+Rent of shelter,1986,114.545454545
+Rent of shelter,1987,111.15625
+Rent of shelter,1984,106.31
+Rent of shelter,1985,110.98
+Rent of shelter,1982,100.0
+Rent of shelter,1983,102.185714286
+Rent of shelter,1988,116.015625
+Rent of shelter,1989,120.971875
+Rent of shelter,2011,193.63025
+Rent of shelter,2010,191.409458333
+Rent of shelter,2012,198.127583333
+Rent of shelter,1991,133.00625
+Rent of shelter,1990,127.65625
+Rent of shelter,1993,141.553125
+Rent of shelter,1992,137.003125
+Rent of shelter,1995,152.128125
+Rent of shelter,1994,146.23125
+Rent of shelter,1997,160.206060606
+Rent of shelter,1996,157.5875
+Rent of shelter,1999,148.879166667
+Rent of shelter,1998,145.225
+Rent of shelter,2002,162.402083333
+Rent of shelter,2003,165.660416667
+Rent of shelter,2000,152.854166667
+Rent of shelter,2001,157.5125
+Rent of shelter,2006,179.00625
+Rent of shelter,2007,185.295541667
+Rent of shelter,2004,169.1
+Rent of shelter,2005,173.06875
+Rent of shelter,2008,190.2985625
+Rent of shelter,2009,192.450583333
+Fuels and utilities,1986,103.609090909
+Fuels and utilities,1987,103.446875
+Fuels and utilities,1984,104.97
+Fuels and utilities,1977,59.1
+Fuels and utilities,1982,94.7
+Fuels and utilities,1983,100.928571429
+Fuels and utilities,1980,76.4428571429
+Fuels and utilities,1981,86.6571428571
+Fuels and utilities,1979,67.8285714286
+Fuels and utilities,1988,104.31875
+Fuels and utilities,1989,107.021875
+Fuels and utilities,2011,203.185
+Fuels and utilities,2010,197.001375
+Fuels and utilities,2012,202.577895833
+Fuels and utilities,1985,107.36
+Fuels and utilities,1991,114.746875
+Fuels and utilities,1990,111.365625
+Fuels and utilities,1993,120.05
+Fuels and utilities,1992,117.1125
+Fuels and utilities,1995,122.778125
+Fuels and utilities,1994,121.896875
+Fuels and utilities,1997,128.560606061
+Fuels and utilities,1996,126.96875
+Fuels and utilities,1999,119.935416667
+Fuels and utilities,1998,119.44375
+Fuels and utilities,1978,61.9285714286
+Fuels and utilities,2002,134.020833333
+Fuels and utilities,2003,143.089583333
+Fuels and utilities,2000,127.9
+Fuels and utilities,2001,138.616666667
+Fuels and utilities,2006,178.5875
+Fuels and utilities,2007,184.053729167
+Fuels and utilities,2004,149.575
+Fuels and utilities,2005,164.377083333
+Fuels and utilities,2008,201.548770833
+Fuels and utilities,2009,194.47175
+Medical care,1986,119.645454545
+Medical care,1987,116.678125
+Medical care,1984,107.0
+Medical care,1977,56.6
+Medical care,1982,92.7571428571
+Medical care,1983,101.014285714
+Medical care,1980,74.5714285714
+Medical care,1981,83.0571428571
+Medical care,1979,66.3142857143
+Medical care,1988,123.690625
+Medical care,1989,132.696875
+Medical care,2011,291.156375
+Medical care,2010,282.702520833
+Medical care,2012,301.740979167
+Medical care,1985,112.7
+Medical care,1991,157.55625
+Medical care,1990,145.134375
+Medical care,1993,178.021875
+Medical care,1992,168.48125
+Medical care,1995,195.30625
+Medical care,1994,186.65
+Medical care,1997,203.942424242
+Medical care,1996,201.815625
+Medical care,1999,182.960416667
+Medical care,1998,176.66875
+Medical care,1978,60.4571428571
+Medical care,2002,207.8125
+Medical care,2003,215.941666667
+Medical care,2000,189.38125
+Medical care,2001,198.225
+Medical care,2006,245.68125
+Medical care,2007,256.22725
+Medical care,2004,225.8125
+Medical care,2005,236.147916667
+Medical care,2008,265.506166667
+Medical care,2009,273.8209375
+Motor fuel,1986,76.9235294118
+Motor fuel,1987,97.45
+Motor fuel,1984,97.1875
+Motor fuel,1977,50.9
+Motor fuel,1982,103.446153846
+Motor fuel,1983,99.4
+Motor fuel,1980,97.1538461538
+Motor fuel,1981,108.861538462
+Motor fuel,1979,69.7384615385
+Motor fuel,1988,98.2125
+Motor fuel,1989,108.134375
+Motor fuel,2011,343.617854167
+Motor fuel,2010,271.4566875
+Motor fuel,2012,354.524479167
+Motor fuel,1985,97.00625
+Motor fuel,1991,120.8875
+Motor fuel,1990,123.153125
+Motor fuel,1993,119.5375
+Motor fuel,1992,120.446875
+Motor fuel,1995,122.1
+Motor fuel,1994,119.921875
+Motor fuel,1997,128.860606061
+Motor fuel,1996,129.928125
+Motor fuel,1999,114.772916667
+Motor fuel,1998,104.864583333
+Motor fuel,1978,52.1923076923
+Motor fuel,2002,132.0875
+Motor fuel,2003,153.904166667
+Motor fuel,2000,147.325
+Motor fuel,2001,142.2
+Motor fuel,2006,252.235416667
+Motor fuel,2007,272.077479167
+Motor fuel,2004,182.154166667
+Motor fuel,2005,223.23125
+Motor fuel,2008,318.0028125
+Motor fuel,2009,229.124770833
+Food at home,1986,105.623529412
+Food at home,1987,106.603125
+Food at home,1984,103.09375
+Food at home,1977,67.7
+Food at home,1982,97.8384615385
+Food at home,1983,99.0538461538
+Food at home,1980,88.2923076923
+Food at home,1981,94.8
+Food at home,1979,82.0230769231
+Food at home,1988,110.8875
+Food at home,1989,118.00625
+Food at home,2011,190.871
+Food at home,2010,182.047625
+Food at home,2012,195.796291667
+Food at home,1985,103.7875
+Food at home,1991,128.528125
+Food at home,1990,125.546875
+Food at home,1993,131.834375
+Food at home,1992,128.875
+Food at home,1995,139.340625
+Food at home,1994,135.584375
+Food at home,1997,147.284848485
+Food at home,1996,144.840625
+Food at home,1999,137.5625
+Food at home,1998,134.804166667
+Food at home,1978,73.7923076923
+Food at home,2002,146.84375
+Food at home,2003,150.164583333
+Food at home,2000,140.927083333
+Food at home,2001,145.19375
+Food at home,2006,162.079166667
+Food at home,2007,169.383729167
+Food at home,2004,156.227083333
+Food at home,2005,159.314583333
+Food at home,2008,180.535625
+Food at home,2009,181.462458333
+Alcoholic beverages,1986,109.527272727
+Alcoholic beverages,1987,107.184375
+Alcoholic beverages,1984,104.0
+Alcoholic beverages,1977,68.9
+Alcoholic beverages,1982,95.6428571429
+Alcoholic beverages,1983,100.785714286
+Alcoholic beverages,1980,85.3571428571
+Alcoholic beverages,1981,91.0857142857
+Alcoholic beverages,1979,78.3
+Alcoholic beverages,1988,110.85
+Alcoholic beverages,1989,115.175
+Alcoholic beverages,2011,189.516416667
+Alcoholic beverages,2010,186.446520833
+Alcoholic beverages,2012,193.174083333
+Alcoholic beverages,1985,107.28
+Alcoholic beverages,1991,133.628125
+Alcoholic beverages,1990,120.778125
+Alcoholic beverages,1993,140.69375
+Alcoholic beverages,1992,137.778125
+Alcoholic beverages,1995,145.43125
+Alcoholic beverages,1994,143.171875
+Alcoholic beverages,1997,151.945454545
+Alcoholic beverages,1996,150.05
+Alcoholic beverages,1999,140.202083333
+Alcoholic beverages,1998,137.054166667
+Alcoholic beverages,1978,72.1428571429
+Alcoholic beverages,2002,152.091666667
+Alcoholic beverages,2003,155.475
+Alcoholic beverages,2000,144.714583333
+Alcoholic beverages,2001,148.910416667
+Alcoholic beverages,2006,166.76875
+Alcoholic beverages,2007,171.886166667
+Alcoholic beverages,2004,159.714583333
+Alcoholic beverages,2005,162.647916667
+Alcoholic beverages,2008,177.980020833
+Alcoholic beverages,2009,183.553166667
+Transportation,1986,100.390909091
+Transportation,1987,104.040625
+Transportation,1984,103.68
+Transportation,1977,59.8
+Transportation,1982,97.1142857143
+Transportation,1983,99.5
+Transportation,1980,83.7142857143
+Transportation,1981,93.9142857143
+Transportation,1979,71.3
+Transportation,1988,107.271875
+Transportation,1989,112.71875
+Transportation,2011,190.57225
+Transportation,2010,173.1095625
+Transportation,2012,195.3474375
+Transportation,1985,105.83
+Transportation,1991,122.234375
+Transportation,1990,119.071875
+Transportation,1993,128.621875
+Transportation,1992,124.675
+Transportation,1995,137.478125
+Transportation,1994,132.5125
+Transportation,1997,140.978787879
+Transportation,1996,141.396875
+Transportation,1999,128.316666667
+Transportation,1998,125.7
+Transportation,1978,62.1714285714
+Transportation,2002,135.520833333
+Transportation,2003,139.927083333
+Transportation,2000,136.347916667
+Transportation,2001,137.004166667
+Transportation,2006,161.785416667
+Transportation,2007,165.4644375
+Transportation,2004,144.997916667
+Transportation,2005,155.441666667
+Transportation,2008,175.249708333
+Transportation,2009,159.917916667
+Professional services,1986,117.663636364
+Professional services,1987,116.759375
+Professional services,1984,106.44
+Professional services,1977,59.4
+Professional services,1982,93.7714285714
+Professional services,1983,100.414285714
+Professional services,1980,78.6714285714
+Professional services,1981,87.1142857143
+Professional services,1979,69.1142857143
+Professional services,1988,124.028125
+Professional services,1989,131.89375
+Professional services,2011,254.519395833
+Professional services,2010,248.7578125
+Professional services,2012,259.437708333
+Professional services,1985,111.72
+Professional services,1991,149.803125
+Professional services,1990,141.84375
+Professional services,1993,166.946875
+Professional services,1992,158.8875
+Professional services,1995,183.7625
+Professional services,1994,175.3625
+Professional services,1997,193.857575758
+Professional services,1996,190.00625
+Professional services,1999,173.91875
+Professional services,1998,169.360416667
+Professional services,1978,63.0857142857
+Professional services,2002,192.366666667
+Professional services,2003,197.76875
+Professional services,2000,179.039583333
+Professional services,2001,186.433333333
+Professional services,2006,218.477083333
+Professional services,2007,227.587125
+Professional services,2004,204.920833333
+Professional services,2005,212.75
+Professional services,2008,235.7295625
+Professional services,2009,242.2108125
 Education and communication services,2009,100.0
-Education and communication services,2011,102.617923077
-Education and communication services,2010,100.975384615
-Education and communication services,2012,104.932153846
+Education and communication services,2011,103.089208333
+Education and communication services,2010,101.008416667
+Education and communication services,2012,105.852354167
+Durables,1986,106.254545455
+Durables,1987,104.81875
+Durables,1984,105.22
+Durables,1977,67.0
+Durables,1982,95.8714285714
+Durables,1983,99.4428571429
+Durables,1980,82.2
+Durables,1981,88.6857142857
+Durables,1979,76.2428571429
+Durables,1988,107.03125
+Durables,1989,108.74375
+Durables,2011,103.4995
+Durables,2010,102.137916667
+Durables,2012,103.924770833
+Durables,1985,106.88
+Durables,1991,112.171875
+Durables,1990,109.971875
+Durables,1993,117.2375
+Durables,1992,114.784375
+Durables,1995,124.10625
+Durables,1994,120.596875
+Durables,1997,123.975757576
+Durables,1996,125.446875
+Durables,1999,114.077083333
+Durables,1998,115.45625
+Durables,1978,70.0
+Durables,2002,109.64375
+Durables,2003,106.316666667
+Durables,2000,113.625
+Durables,2001,112.658333333
+Durables,2006,104.141666667
+Durables,2007,102.4019375
+Durables,2004,104.235416667
+Durables,2005,105.077083333
+Durables,2008,101.204770833
+Durables,2009,100.4985625
+Gasoline (all types),1986,76.8529411765
+Gasoline (all types),1987,97.49375
+Gasoline (all types),1984,97.08125
+Gasoline (all types),1977,50.9
+Gasoline (all types),1982,103.446153846
+Gasoline (all types),1983,99.4923076923
+Gasoline (all types),1980,97.1923076923
+Gasoline (all types),1981,108.892307692
+Gasoline (all types),1979,69.7769230769
+Gasoline (all types),1988,98.2375
+Gasoline (all types),1989,108.2375
+Gasoline (all types),2011,342.903291667
+Gasoline (all types),2010,271.090791667
+Gasoline (all types),2012,353.469104167
+Gasoline (all types),1985,96.95
+Gasoline (all types),1991,120.653125
+Gasoline (all types),1990,122.959375
+Gasoline (all types),1993,119.21875
+Gasoline (all types),1992,120.309375
+Gasoline (all types),1995,121.871875
+Gasoline (all types),1994,119.55
+Gasoline (all types),1997,128.318181818
+Gasoline (all types),1996,129.415625
+Gasoline (all types),1999,114.285416667
+Gasoline (all types),1998,104.370833333
+Gasoline (all types),1978,52.2076923077
+Gasoline (all types),2002,131.59375
+Gasoline (all types),2003,153.3875
+Gasoline (all types),2000,146.683333333
+Gasoline (all types),2001,141.56875
+Gasoline (all types),2006,251.285416667
+Gasoline (all types),2007,271.125458333
+Gasoline (all types),2004,181.545833333
+Gasoline (all types),2005,222.377083333
+Gasoline (all types),2008,315.766
+Gasoline (all types),2009,228.918416667
+All items  less medical care,1986,106.218181818
+All items  less medical care,1987,106.3
+All items  less medical care,1984,103.5
+All items  less medical care,1977,62.4
+All items  less medical care,1982,97.1857142857
+All items  less medical care,1983,99.6714285714
+All items  less medical care,1980,82.1857142857
+All items  less medical care,1981,90.5142857143
+All items  less medical care,1979,73.0142857143
+All items  less medical care,1988,110.378125
+All items  less medical care,1989,115.23125
+All items  less medical care,2011,181.004708333
+All items  less medical care,2010,175.247666667
+All items  less medical care,2012,184.898020833
+All items  less medical care,1985,106.27
+All items  less medical care,1991,125.903125
+All items  less medical care,1990,121.365625
+All items  less medical care,1993,132.553125
+All items  less medical care,1992,128.98125
+All items  less medical care,1995,139.734375
+All items  less medical care,1994,135.8125
+All items  less medical care,1997,145.715151515
+All items  less medical care,1996,144.0125
+All items  less medical care,1999,135.904166667
+All items  less medical care,1998,133.1375
+All items  less medical care,1978,65.6
+All items  less medical care,2002,145.372916667
+All items  less medical care,2003,148.375
+All items  less medical care,2000,140.252083333
+All items  less medical care,2001,143.702083333
+All items  less medical care,2006,162.325
+All items  less medical care,2007,166.817625
+All items  less medical care,2004,152.00625
+All items  less medical care,2005,157.26875
+All items  less medical care,2008,173.469729167
+All items  less medical care,2009,172.415333333
+Commodities less food and beverages,1986,100.590909091
+Commodities less food and beverages,1987,103.259375
+Commodities less food and beverages,1984,102.97
+Commodities less food and beverages,1977,65.6
+Commodities less food and beverages,1982,97.5
+Commodities less food and beverages,1983,99.8571428571
+Commodities less food and beverages,1980,85.4857142857
+Commodities less food and beverages,1981,92.9857142857
+Commodities less food and beverages,1979,75.7142857143
+Commodities less food and beverages,1988,106.85625
+Commodities less food and beverages,1989,111.16875
+Commodities less food and beverages,2011,149.1158125
+Commodities less food and beverages,2010,139.942541667
+Commodities less food and beverages,2012,151.719875
+Commodities less food and beverages,1985,104.84
+Commodities less food and beverages,1991,119.925
+Commodities less food and beverages,1990,116.696875
+Commodities less food and beverages,1993,124.803125
+Commodities less food and beverages,1992,122.603125
+Commodities less food and beverages,1995,128.53125
+Commodities less food and beverages,1994,126.2375
+Commodities less food and beverages,1997,130.654545455
+Commodities less food and beverages,1996,131.003125
+Commodities less food and beverages,1999,121.9
+Commodities less food and beverages,1998,119.791666667
+Commodities less food and beverages,1978,67.9571428571
+Commodities less food and beverages,2002,123.285416667
+Commodities less food and beverages,2003,123.754166667
+Commodities less food and beverages,2000,126.547916667
+Commodities less food and beverages,2001,126.10625
+Commodities less food and beverages,2006,135.1125
+Commodities less food and beverages,2007,136.637208333
+Commodities less food and beverages,2004,126.110416667
+Commodities less food and beverages,2005,132.020833333
+Commodities less food and beverages,2008,141.860604167
+Commodities less food and beverages,2009,133.879583333
+Nondurables less food and apparel,1986,95.3181818182
+Nondurables less food and apparel,1987,102.2875
+Nondurables less food and apparel,1984,101.43
+Nondurables less food and apparel,1977,58.0
+Nondurables less food and apparel,1982,98.4857142857
+Nondurables less food and apparel,1983,100.185714286
+Nondurables less food and apparel,1980,87.5285714286
+Nondurables less food and apparel,1981,97.2571428571
+Nondurables less food and apparel,1979,71.1714285714
+Nondurables less food and apparel,1988,106.528125
+Nondurables less food and apparel,1989,114.19375
+Nondurables less food and apparel,2011,242.728375
+Nondurables less food and apparel,2010,217.6741875
+Nondurables less food and apparel,2012,247.840791667
+Nondurables less food and apparel,1985,103.39
+Nondurables less food and apparel,1991,128.7125
+Nondurables less food and apparel,1990,123.890625
+Nondurables less food and apparel,1993,133.528125
+Nondurables less food and apparel,1992,131.58125
+Nondurables less food and apparel,1995,136.721875
+Nondurables less food and apparel,1994,134.090625
+Nondurables less food and apparel,1997,143.366666667
+Nondurables less food and apparel,1996,142.328125
+Nondurables less food and apparel,1999,135.65
+Nondurables less food and apparel,1998,127.577083333
+Nondurables less food and apparel,1978,60.0
+Nondurables less food and apparel,2002,149.997916667
+Nondurables less food and apparel,2003,158.095833333
+Nondurables less food and apparel,2000,149.622916667
+Nondurables less food and apparel,2001,150.922916667
+Nondurables less food and apparel,2006,197.39375
+Nondurables less food and apparel,2007,205.8503125
+Nondurables less food and apparel,2004,169.252083333
+Nondurables less food and apparel,2005,185.5375
+Nondurables less food and apparel,2008,225.350979167
+Nondurables less food and apparel,2009,201.431125
+Household furnishings and supplies,2009,100.0
+Household furnishings and supplies,2011,97.5964791667
+Household furnishings and supplies,2010,98.3805
+Household furnishings and supplies,2012,98.1129583333
+Food,1986,107.463636364
+Food,1987,107.384375
+Food,1984,103.83
+Food,1977,65.9
+Food,1982,97.0428571429
+Food,1983,99.4571428571
+Food,1980,86.4571428571
+Food,1981,93.5
+Food,1979,79.4142857143
+Food,1988,111.75
+Food,1989,118.121875
+Food,2011,191.786604167
+Food,2010,184.684
+Food,2012,197.012583333
+Food,1985,105.66
+Food,1991,128.284375
+Food,1990,124.971875
+Food,1993,132.0625
+Food,1992,129.309375
+Food,1995,138.75625
+Food,1994,135.334375
+Food,1997,146.233333333
+Food,1996,143.625
+Food,1999,137.1375
+Food,1998,134.23125
+Food,1978,71.6
+Food,2002,147.141666667
+Food,2003,150.5
+Food,2000,140.670833333
+Food,2001,144.641666667
+Food,2006,163.766666667
+Food,2007,170.509354167
+Food,2004,156.016666667
+Food,2005,160.020833333
+Food,2008,180.282041667
+Food,2009,183.589166667
+Education and communication commodities,2009,100.0
+Education and communication commodities,2011,95.9576875
+Education and communication commodities,2010,98.9348541667
+Education and communication commodities,2012,93.1531666667
+Other services,1986,112.827272727
+Other services,1987,110.83125
+Other services,1984,105.2
+Other services,1977,64.0
+Other services,1982,95.0142857143
+Other services,1983,100.4
+Other services,1980,80.2571428571
+Other services,1981,86.6428571429
+Other services,1979,73.3857142857
+Other services,1988,116.275
+Other services,1989,123.071875
+Other services,2011,239.039770833
+Other services,2010,235.298
+Other services,2012,246.352375
+Other services,1985,108.95
+Other services,1991,141.434375
+Other services,1990,132.259375
+Other services,1993,157.053125
+Other services,1992,149.540625
+Other services,1995,171.759375
+Other services,1994,163.915625
+Other services,1997,185.124242424
+Other services,1996,179.984375
+Other services,1999,169.047916667
+Other services,1998,164.56875
+Other services,1978,67.4857142857
+Other services,2002,186.779166667
+Other services,2003,192.55
+Other services,2000,173.622916667
+Other services,2001,180.264583333
+Other services,2006,210.660416667
+Other services,2007,217.048041667
+Other services,2004,197.629166667
+Other services,2005,203.189583333
+Other services,2008,224.825395833
+Other services,2009,231.292104167
+Nondurables,1986,102.054545455
+Nondurables,1987,104.703125
+Nondurables,1984,102.63
+Nondurables,1977,64.6
+Nondurables,1982,97.7571428571
+Nondurables,1983,99.8428571429
+Nondurables,1980,87.6285714286
+Nondurables,1981,95.4714285714
+Nondurables,1979,76.7857142857
+Nondurables,1988,109.2125
+Nondurables,1989,115.446875
+Nondurables,2011,194.402979167
+Nondurables,2010,181.726020833
+Nondurables,2012,199.305333333
+Nondurables,1985,104.59
+Nondurables,1991,127.20625
+Nondurables,1990,123.146875
+Nondurables,1993,131.571875
+Nondurables,1992,129.2125
+Nondurables,1995,135.64375
+Nondurables,1994,133.215625
+Nondurables,1997,141.23030303
+Nondurables,1996,139.7
+Nondurables,1999,132.852083333
+Nondurables,1998,128.814583333
+Nondurables,1978,68.0857142857
+Nondurables,2002,141.489583333
+Nondurables,2003,145.322916667
+Nondurables,2000,139.14375
+Nondurables,2001,141.1625
+Nondurables,2006,165.027083333
+Nondurables,2007,171.02375
+Nondurables,2004,151.5875
+Nondurables,2005,159.2125
+Nondurables,2008,182.149041667
+Nondurables,2009,175.35025
+Commodities less food,1986,100.845454545
+Commodities less food,1987,103.31875
+Commodities less food,1984,103.03
+Commodities less food,1977,65.7
+Commodities less food,1982,97.4428571429
+Commodities less food,1983,99.9142857143
+Commodities less food,1980,85.4714285714
+Commodities less food,1981,92.9
+Commodities less food,1979,75.7857142857
+Commodities less food,1988,106.95
+Commodities less food,1989,111.276666667
+Commodities less food,2011,150.54725
+Commodities less food,2010,141.5239375
+Commodities less food,2012,153.18775
+Commodities less food,1985,104.92
+Commodities less food,1991,120.459375
+Commodities less food,1990,116.793333333
+Commodities less food,1993,125.41875
+Commodities less food,1992,123.225
+Commodities less food,1995,129.2
+Commodities less food,1994,126.89375
+Commodities less food,1997,131.539393939
+Commodities less food,1996,131.753125
+Commodities less food,1999,122.633333333
+Commodities less food,1998,120.4875
+Commodities less food,1978,68.0142857143
+Commodities less food,2002,124.310416667
+Commodities less food,2003,124.870833333
+Commodities less food,2000,127.277083333
+Commodities less food,2001,126.95625
+Commodities less food,2006,136.2375
+Commodities less food,2007,137.884625
+Commodities less food,2004,127.289583333
+Commodities less food,2005,133.110416667
+Commodities less food,2008,143.1409375
+Commodities less food,2009,135.546166667
+Food away from home,1986,111.9
+Food away from home,1987,109.31875
+Food away from home,1984,105.11
+Food away from home,1977,61.8
+Food away from home,1982,95.2142857143
+Food away from home,1983,100.185714286
+Food away from home,1980,81.9285714286
+Food away from home,1981,90.4428571429
+Food away from home,1979,73.3428571429
+Food away from home,1988,113.9125
+Food away from home,1989,118.94375
+Food away from home,2011,193.6704375
+Food away from home,2010,189.013395833
+Food away from home,2012,199.434916667
+Food away from home,1985,109.81
+Food away from home,1991,128.4625
+Food away from home,1990,124.484375
+Food away from home,1993,133.315625
+Food away from home,1992,130.95
+Food away from home,1995,138.715625
+Food away from home,1994,135.83125
+Food away from home,1997,145.318181818
+Food away from home,1996,142.421875
+Food away from home,1999,137.066666667
+Food away from home,1998,133.93125
+Food away from home,1978,65.9714285714
+Food away from home,2002,148.2625
+Food away from home,2003,151.691666667
+Food away from home,2000,140.939583333
+Food away from home,2001,144.377083333
+Food away from home,2006,166.885416667
+Food away from home,2007,172.883854167
+Food away from home,2004,156.475
+Food away from home,2005,161.8
+Food away from home,2008,180.856833333
+Food away from home,2009,187.359
+Transportation services,1986,112.081818182
+Transportation services,1987,110.653125
+Transportation services,1984,104.66
+Transportation services,1977,63.8
+Transportation services,1982,96.4857142857
+Transportation services,1983,99.2857142857
+Transportation services,1980,81.5
+Transportation services,1981,90.8714285714
+Transportation services,1979,71.6714285714
+Transportation services,1988,116.575
+Transportation services,1989,123.159375
+Transportation services,2011,215.118583333
+Transportation services,2010,209.543666667
+Transportation services,2012,220.491604167
+Transportation services,1985,109.06
+Transportation services,1991,137.996875
+Transportation services,1990,131.684375
+Transportation services,1993,148.309375
+Transportation services,1992,141.175
+Transportation services,1995,160.4625
+Transportation services,1994,153.959375
+Transportation services,1997,166.451515152
+Transportation services,1996,164.696875
+Transportation services,1999,149.660416667
+Transportation services,1998,144.582222222
+Transportation services,1978,65.8714285714
+Transportation services,2002,165.283333333
+Transportation services,2003,170.983333333
+Transportation services,2000,153.895833333
+Transportation services,2001,159.033333333
+Transportation services,2006,182.654166667
+Transportation services,2007,187.150583333
+Transportation services,2004,173.347916667
+Transportation services,2005,177.458333333
+Transportation services,2008,195.258666667
+Transportation services,2009,201.758958333
+All items - old base,1986,167.227272727
+All items - old base,1987,141.009375
+All items - old base,1984,167.32
+All items - old base,1977,100.0
+All items - old base,1982,156.285714286
+All items - old base,1983,160.914285714
+All items - old base,1980,131.771428571
+All items - old base,1981,145.214285714
+All items - old base,1979,117.071428571
+All items - old base,1988,146.51875
+All items - old base,1989,155.866666667
+All items - old base,2011,278.777875
+All items - old base,2010,269.9024375
+All items - old base,2012,285.5101875
+All items - old base,1985,172.1
+All items - old base,1991,168.340625
+All items - old base,1990,164.673333333
+All items - old base,1993,178.109375
+All items - old base,1992,172.90625
+All items - old base,1995,188.671875
+All items - old base,1994,182.934375
+All items - old base,1997,198.903125
+All items - old base,1996,194.653125
+All items - old base,1999,206.4875
+All items - old base,1998,201.990625
+All items - old base,1978,105.271428571
+All items - old base,2002,221.603125
+All items - old base,2003,226.425
+All items - old base,2000,213.034375
+All items - old base,2001,218.490625
+All items - old base,2006,248.61875
+All items - old base,2007,255.80915625
+All items - old base,2004,232.06875
+All items - old base,2005,240.603125
+All items - old base,2008,266.0784375
+All items - old base,2009,265.1588125
+Food and beverages,1986,107.563636364
+Food and beverages,1987,107.35
+Food and beverages,1984,103.84
+Food and beverages,1977,66.0
+Food and beverages,1982,96.9857142857
+Food and beverages,1983,99.5
+Food and beverages,1980,86.3857142857
+Food and beverages,1981,93.3857142857
+Food and beverages,1979,79.3571428571
+Food and beverages,1988,111.68125
+Food and beverages,1989,117.90625
+Food and beverages,2011,191.6875
+Food and beverages,2010,184.852875
+Food and beverages,2012,196.80825
+Food and beverages,1985,105.75
+Food and beverages,1991,128.70625
+Food and beverages,1990,124.646875
+Food and beverages,1993,132.71875
+Food and beverages,1992,129.9875
+Food and beverages,1995,139.259375
+Food and beverages,1994,135.9375
+Food and beverages,1997,146.654545455
+Food and beverages,1996,144.109375
+Food and beverages,1999,137.40625
+Food and beverages,1998,134.479166667
+Food and beverages,1978,71.6285714286
+Food and beverages,2002,147.502083333
+Food and beverages,2003,150.847916667
+Food and beverages,2000,140.989583333
+Food and beverages,2001,144.945833333
+Food and beverages,2006,164.033333333
+Food and beverages,2007,170.658416667
+Food and beverages,2004,156.291666667
+Food and beverages,2005,160.25
+Food and beverages,2008,180.181354167
+Food and beverages,2009,183.643541667
+Services,1986,112.0
+Services,1987,109.90625
+Services,1984,104.25
+Services,1977,57.1
+Services,1982,96.5
+Services,1983,99.7857142857
+Services,1980,76.4571428571
+Services,1981,86.1142857143
+Services,1979,67.0571428571
+Services,1988,114.434375
+Services,1989,119.61875
+Services,2011,208.530416667
+Services,2010,205.104958333
+Services,2012,213.621541667
+Services,1985,108.54
+Services,1991,133.05
+Services,1990,126.709375
+Services,1993,143.2375
+Services,1992,137.88125
+Services,1995,153.846875
+Services,1994,148.2375
+Services,1997,161.893939394
+Services,1996,159.29375
+Services,1999,149.539583333
+Services,1998,146.116666667
+Services,1978,60.3
+Services,2002,164.995833333
+Services,2003,169.8875
+Services,2000,154.152083333
+Services,2001,160.23125
+Services,2006,187.002083333
+Services,2007,193.330854167
+Services,2004,174.266666667
+Services,2005,179.939583333
+Services,2008,200.368104167
+Services,2009,203.563375
+Energy services,1986,104.341176471
+Energy services,1987,104.821875
+Energy services,1984,105.35625
+Energy services,1977,56.4
+Energy services,1982,91.7846153846
+Energy services,1983,102.853846154
+Energy services,1980,72.2153846154
+Energy services,1981,81.8615384615
+Energy services,1979,65.6461538462
+Energy services,1988,105.259375
+Energy services,1989,107.240625
+Energy services,2011,184.645583333
+Energy services,2010,181.992583333
+Energy services,2012,181.3659375
+Energy services,1985,106.325
+Energy services,1991,112.125
+Energy services,1990,109.20625
+Energy services,1993,117.44375
+Energy services,1992,114.153125
+Energy services,1995,118.46875
+Energy services,1994,118.76875
+Energy services,1997,122.693939394
+Energy services,1996,121.228125
+Energy services,1999,113.895833333
+Energy services,1998,114.24375
+Energy services,1978,60.2
+Energy services,2002,127.460416667
+Energy services,2003,136.4625
+Energy services,2000,120.739583333
+Energy services,2001,133.45625
+Energy services,2006,170.741666667
+Energy services,2007,174.780479167
+Energy services,2004,141.70625
+Energy services,2005,156.05625
+Energy services,2008,189.880604167
+Energy services,2009,183.230229167
+All items less food and energy,1986,110.809090909
+All items less food and energy,1987,108.91875
+All items less food and energy,1984,104.29
+All items less food and energy,1977,62.5
+All items less food and energy,1982,96.4571428571
+All items less food and energy,1983,99.7571428571
+All items less food and energy,1980,79.7285714286
+All items less food and energy,1981,87.8857142857
+All items less food and energy,1979,71.6428571429
+All items less food and energy,1988,113.596875
+All items less food and energy,1989,118.45625
+All items less food and energy,2011,180.54425
+All items less food and energy,2010,177.725729167
+All items less food and energy,2012,184.782375
+All items less food and energy,1985,108.18
+All items less food and energy,1991,130.7375
+All items less food and energy,1990,124.784375
+All items less food and energy,1993,139.8
+All items less food and energy,1992,135.25625
+All items less food and energy,1995,148.690625
+All items less food and energy,1994,143.85
+All items less food and energy,1997,154.621212121
+All items less food and energy,1996,152.915625
+All items less food and energy,1999,143.252083333
+All items less food and energy,1998,140.3875
+All items less food and energy,1978,65.3285714286
+All items less food and energy,2002,152.970833333
+All items less food and energy,2003,154.975
+All items less food and energy,2000,146.285416667
+All items less food and energy,2001,149.870833333
+All items less food and energy,2006,164.827083333
+All items less food and energy,2007,168.655520833
+All items less food and energy,2004,157.335416667
+All items less food and energy,2005,160.839583333
+All items less food and energy,2008,172.610416667
+All items less food and energy,2009,175.8393125
+Other personal services,2009,100.0
+Other personal services,2011,103.3799375
+Other personal services,2010,101.277979167
+Other personal services,2012,106.1265625
+"Gasoline, unleaded regular",1986,76.6705882353
+"Gasoline, unleaded regular",1987,97.196875
+"Gasoline, unleaded regular",1984,97.09375
+"Gasoline, unleaded regular",1985,97.55625
+"Gasoline, unleaded regular",1982,103.433333333
+"Gasoline, unleaded regular",1983,99.4666666667
+"Gasoline, unleaded regular",1988,97.453125
+"Gasoline, unleaded regular",1989,106.58125
+"Gasoline, unleaded regular",2011,344.892375
+"Gasoline, unleaded regular",2010,271.969041667
+"Gasoline, unleaded regular",2012,355.349729167
+"Gasoline, unleaded regular",1991,119.0625
+"Gasoline, unleaded regular",1990,121.29375
+"Gasoline, unleaded regular",1993,116.86875
+"Gasoline, unleaded regular",1992,118.421875
+"Gasoline, unleaded regular",1995,119.871875
+"Gasoline, unleaded regular",1994,117.15
+"Gasoline, unleaded regular",1997,126.736363636
+"Gasoline, unleaded regular",1996,127.675
+"Gasoline, unleaded regular",1999,112.929166667
+"Gasoline, unleaded regular",1998,102.683333333
+"Gasoline, unleaded regular",2002,130.847916667
+"Gasoline, unleaded regular",2003,153.229166667
+"Gasoline, unleaded regular",2000,146.4625
+"Gasoline, unleaded regular",2001,141.327083333
+"Gasoline, unleaded regular",2006,252.997916667
+"Gasoline, unleaded regular",2007,272.961145833
+"Gasoline, unleaded regular",2004,181.933333333
+"Gasoline, unleaded regular",2005,223.510416667
+"Gasoline, unleaded regular",2008,317.783104167
+"Gasoline, unleaded regular",2009,229.1668125
+"Nondurables less food, beverages, and apparel",1986,94.4090909091
+"Nondurables less food, beverages, and apparel",1987,102.2875
+"Nondurables less food, beverages, and apparel",1984,101.28
+"Nondurables less food, beverages, and apparel",1977,57.3
+"Nondurables less food, beverages, and apparel",1982,98.6714285714
+"Nondurables less food, beverages, and apparel",1983,100.128571429
+"Nondurables less food, beverages, and apparel",1980,87.6428571429
+"Nondurables less food, beverages, and apparel",1981,97.6285714286
+"Nondurables less food, beverages, and apparel",1979,70.7
+"Nondurables less food, beverages, and apparel",1988,106.56875
+"Nondurables less food, beverages, and apparel",1989,114.70625
+"Nondurables less food, beverages, and apparel",2011,248.771854167
+"Nondurables less food, beverages, and apparel",2010,221.4935625
+"Nondurables less food, beverages, and apparel",2012,254.022979167
+"Nondurables less food, beverages, and apparel",1985,103.14
+"Nondurables less food, beverages, and apparel",1991,128.80625
+"Nondurables less food, beverages, and apparel",1990,124.99375
+"Nondurables less food, beverages, and apparel",1993,133.45
+"Nondurables less food, beverages, and apparel",1992,131.5625
+"Nondurables less food, beverages, and apparel",1995,136.465625
+"Nondurables less food, beverages, and apparel",1994,133.796875
+"Nondurables less food, beverages, and apparel",1997,143.139393939
+"Nondurables less food, beverages, and apparel",1996,142.246875
+"Nondurables less food, beverages, and apparel",1999,135.491666667
+"Nondurables less food, beverages, and apparel",1998,127.010416667
+"Nondurables less food, beverages, and apparel",1978,59.2285714286
+"Nondurables less food, beverages, and apparel",2002,150.208333333
+"Nondurables less food, beverages, and apparel",2003,158.8
+"Nondurables less food, beverages, and apparel",2000,150.30625
+"Nondurables less food, beverages, and apparel",2001,151.3625
+"Nondurables less food, beverages, and apparel",2006,201.083333333
+"Nondurables less food, beverages, and apparel",2007,209.943333333
+"Nondurables less food, beverages, and apparel",2004,170.660416667
+"Nondurables less food, beverages, and apparel",2005,188.2875
+"Nondurables less food, beverages, and apparel",2008,230.9555625
+"Nondurables less food, beverages, and apparel",2009,203.821125
+"Gasoline, unleaded midgrade",1993,100.0
+"Gasoline, unleaded midgrade",1995,105.025
+"Gasoline, unleaded midgrade",1994,103.1375
+"Gasoline, unleaded midgrade",1997,110.915151515
+"Gasoline, unleaded midgrade",1996,111.5625
+"Gasoline, unleaded midgrade",1999,102.520833333
+"Gasoline, unleaded midgrade",1998,94.2583333333
+"Gasoline, unleaded midgrade",2002,117.885416667
+"Gasoline, unleaded midgrade",2003,136.45
+"Gasoline, unleaded midgrade",2000,131.039583333
+"Gasoline, unleaded midgrade",2001,125.675
+"Gasoline, unleaded midgrade",2006,222.822916667
+"Gasoline, unleaded midgrade",2007,240.732854167
+"Gasoline, unleaded midgrade",2004,161.35625
+"Gasoline, unleaded midgrade",2005,197.760416667
+"Gasoline, unleaded midgrade",2008,281.236520833
+"Gasoline, unleaded midgrade",2009,205.262604167
+"Gasoline, unleaded midgrade",2011,306.087354167
+"Gasoline, unleaded midgrade",2010,242.673708333
+"Gasoline, unleaded midgrade",2012,315.493145833
+Recreation,1997,100.0
+Recreation,1999,102.6
+Recreation,1998,101.597916667
+Recreation,2002,106.510416667
+Recreation,2003,107.414583333
+Recreation,2000,103.46875
+Recreation,2001,105.252083333
+Recreation,2006,110.68125
+Recreation,2007,111.511083333
+Recreation,2004,108.289583333
+Recreation,2005,109.014583333
+Recreation,2008,113.526416667
+Recreation,2009,114.858666667
+Recreation,2011,113.9651875
+Recreation,2010,114.179520833
+Recreation,2012,115.619458333
+New cars and trucks,1997,100.0
+New cars and trucks,1999,99.46875
+New cars and trucks,1998,99.8020833333
+New cars and trucks,2002,97.39375
+New cars and trucks,2003,96.48125
+New cars and trucks,2000,99.4479166667
+New cars and trucks,2001,98.9125
+New cars and trucks,2006,96.5270833333
+New cars and trucks,2007,95.3512916667
+New cars and trucks,2004,96.5395833333
+New cars and trucks,2005,97.3916666667
+New cars and trucks,2008,93.7048958333
+New cars and trucks,2009,95.0003125
+New cars and trucks,2011,99.6763958333
+New cars and trucks,2010,96.7185208333
+New cars and trucks,2012,101.620895833
+New and used motor vehicles,1997,100.0
+New and used motor vehicles,1999,100.297916667
+New and used motor vehicles,1998,100.3125
+New and used motor vehicles,2002,99.0645833333
+New and used motor vehicles,2003,96.3416666667
+New and used motor vehicles,2000,101.01875
+New and used motor vehicles,2001,101.245833333
+New and used motor vehicles,2006,95.50625
+New and used motor vehicles,2007,94.1227291667
+New and used motor vehicles,2004,94.0770833333
+New and used motor vehicles,2005,95.8208333333
+New and used motor vehicles,2008,92.9292708333
+New and used motor vehicles,2009,92.9582083333
+New and used motor vehicles,2011,99.6524791667
+New and used motor vehicles,2010,96.9256041667
+New and used motor vehicles,2012,100.67475
+All items,1986,107.136363636
+All items,1987,107.009375
+All items,1984,103.76
+All items,1977,62.0
+All items,1982,96.9
+All items,1983,99.7571428571
+All items,1980,81.6857142857
+All items,1981,90.0428571429
+All items,1979,72.6
+All items,1988,111.253125
+All items,1989,116.365625
+All items,2011,187.674125
+All items,2010,181.737125
+All items,2012,191.907104167
+All items,1985,106.71
+All items,1991,127.896875
+All items,1990,122.9
+All items,1993,135.38125
+All items,1992,131.45625
+All items,1995,143.175
+All items,1994,138.965625
+All items,1997,134.258333333
+All items,1996,146.139393939
+All items,1999,139.216666667
+All items,1998,136.25625
+All items,1978,65.2571428571
+All items,2002,149.527083333
+All items,2003,152.789583333
+All items,2000,143.708333333
+All items,2001,147.466666667
+All items,2006,167.602083333
+All items,2007,172.414041667
+All items,2004,156.758333333
+All items,2005,162.291666667
+All items,2008,179.253104167
+All items,2009,178.602916667
+Services less medical care services,1986,110.9
+Services less medical care services,1987,108.978125
+Services less medical care services,1984,103.88
+Services less medical care services,1977,57.3
+Services less medical care services,1982,97.0142857143
+Services less medical care services,1983,99.6428571429
+Services less medical care services,1980,76.7714285714
+Services less medical care services,1981,86.5857142857
+Services less medical care services,1979,67.2428571429
+Services less medical care services,1988,113.284375
+Services less medical care services,1989,118.078125
+Services less medical care services,2011,199.854604167
+Services less medical care services,2010,196.825666667
+Services less medical care services,2012,204.349104167
+Services less medical care services,1985,108.04
+Services less medical care services,1991,130.30625
+Services less medical care services,1990,124.5875
+Services less medical care services,1993,139.36875
+Services less medical care services,1992,134.4875
+Services less medical care services,1995,149.05
+Services less medical care services,1994,143.890625
+Services less medical care services,1997,156.975757576
+Services less medical care services,1996,154.3625
+Services less medical care services,1999,145.745833333
+Services less medical care services,1998,142.564583333
+Services less medical care services,1978,60.4
+Services less medical care services,2002,160.220833333
+Services less medical care services,2003,164.71875
+Services less medical care services,2000,150.152083333
+Services less medical care services,2001,155.927083333
+Services less medical care services,2006,180.5
+Services less medical care services,2007,186.292145833
+Services less medical care services,2004,168.535416667
+Services less medical care services,2005,173.7125
+Services less medical care services,2008,193.015625
+Services less medical care services,2009,195.816
+Household energy,1986,97.1588235294
+Household energy,1987,100.7
+Household energy,1984,103.825
+Household energy,1977,54.3
+Household energy,1982,94.5846153846
+Household energy,1983,101.569230769
+Household energy,1980,76.4230769231
+Household energy,1981,87.6692307692
+Household energy,1979,65.1538461538
+Household energy,1988,101.096875
+Household energy,1989,103.371875
+Household energy,2011,188.619875
+Household energy,2010,183.6870625
+Household energy,2012,185.243541667
+Household energy,1985,103.64375
+Household energy,1991,109.05625
+Household energy,1990,107.034375
+Household energy,1993,113.396875
+Household energy,1992,110.453125
+Household energy,1995,114.09375
+Household energy,1994,114.296875
+Household energy,1997,119.139393939
+Household energy,1996,117.7375
+Household energy,1999,111.102083333
+Household energy,1998,111.308333333
+Household energy,1978,57.2076923077
+Household energy,2002,125.072916667
+Household energy,2003,134.685416667
+Household energy,2000,119.760416667
+Household energy,2001,131.5625
+Household energy,2006,171.416666667
+Household energy,2007,176.0129375
+Household energy,2004,140.616666667
+Household energy,2005,156.397916667
+Household energy,2008,194.075583333
+Household energy,2009,183.041104167
+Used cars and trucks,1986,108.270588235
+Used cars and trucks,1987,109.615625
+Used cars and trucks,1984,112.5
+Used cars and trucks,1977,51.1
+Used cars and trucks,1982,88.7692307692
+Used cars and trucks,1983,98.7307692308
+Used cars and trucks,1980,62.3
+Used cars and trucks,1981,76.9153846154
+Used cars and trucks,1979,60.1846153846
+Used cars and trucks,1988,114.484375
+Used cars and trucks,1989,116.746875
+Used cars and trucks,2011,126.206291667
+Used cars and trucks,2010,121.565645833
+Used cars and trucks,2012,126.969708333
+Used cars and trucks,1985,113.70625
+Used cars and trucks,1991,114.09375
+Used cars and trucks,1990,113.83125
+Used cars and trucks,1993,128.878125
+Used cars and trucks,1992,119.00625
+Used cars and trucks,1995,150.35
+Used cars and trucks,1994,135.984375
+Used cars and trucks,1997,143.239393939
+Used cars and trucks,1996,150.81875
+Used cars and trucks,1999,130.625
+Used cars and trucks,1998,129.708333333
+Used cars and trucks,1978,55.8307692308
+Used cars and trucks,2002,129.44375
+Used cars and trucks,2003,121.516666667
+Used cars and trucks,2000,133.9
+Used cars and trucks,2001,135.36875
+Used cars and trucks,2006,118.839583333
+Used cars and trucks,2007,115.442604167
+Used cars and trucks,2004,112.997916667
+Used cars and trucks,2005,118.320833333
+Used cars and trucks,2008,113.962604167
+Used cars and trucks,2009,107.924375
+Commodities,1986,103.172727273
+Commodities,1987,104.75
+Commodities,1984,103.3
+Commodities,1977,65.7
+Commodities,1982,97.2857142857
+Commodities,1983,99.7428571429
+Commodities,1980,85.7142857143
+Commodities,1981,93.0571428571
+Commodities,1979,76.7571428571
+Commodities,1988,108.61875
+Commodities,1989,113.79
+Commodities,2011,164.0960625
+Commodities,2010,155.482416667
+Commodities,2012,167.447270833
+Commodities,1985,105.2
+Commodities,1991,123.184375
+Commodities,1990,119.756666667
+Commodities,1993,127.75
+Commodities,1992,125.36875
+Commodities,1995,132.553125
+Commodities,1994,129.834375
+Commodities,1997,136.621212121
+Commodities,1996,135.90625
+Commodities,1999,127.629166667
+Commodities,1998,125.2125
+Commodities,1978,69.0285714286
+Commodities,2002,132.095833333
+Commodities,2003,133.522916667
+Commodities,2000,131.895833333
+Commodities,2001,133.00625
+Commodities,2006,145.610416667
+Commodities,2007,148.763083333
+Commodities,2004,136.929166667
+Commodities,2005,142.245833333
+Commodities,2008,155.359520833
+Commodities,2009,150.784708333
+Recreation commodities,2009,100.0
+Recreation commodities,2011,97.6126875
+Recreation commodities,2010,98.950625
+Recreation commodities,2012,96.343375
+Other goods,2009,100.0
+Other goods,2011,102.8284375
+Other goods,2010,101.152479167
+Other goods,2012,104.508625
+Apparel,1986,105.172727273
+Apparel,1987,104.8125
+Apparel,1984,102.22
+Apparel,1977,81.3
+Apparel,1982,97.4428571429
+Apparel,1983,100.6
+Apparel,1980,91.5428571429
+Apparel,1981,96.1285714286
+Apparel,1979,85.3285714286
+Apparel,1988,110.175
+Apparel,1989,113.196875
+Apparel,2011,107.282333333
+Apparel,2010,105.629416667
+Apparel,2012,111.656895833
+Apparel,1985,104.97
+Apparel,1991,123.6625
+Apparel,1990,119.115625
+Apparel,1993,129.328125
+Apparel,1992,126.921875
+Apparel,1995,128.7
+Apparel,1994,129.296875
+Apparel,1997,127.209090909
+Apparel,1996,127.46875
+Apparel,1999,118.4625
+Apparel,1998,119.358333333
+Apparel,1978,81.3428571429
+Apparel,2002,111.627083333
+Apparel,2003,108.447916667
+Apparel,2000,116.827083333
+Apparel,2001,115.0125
+Apparel,2006,106.325
+Apparel,2007,105.8513125
+Apparel,2004,106.960416667
+Apparel,2005,106.995833333
+Apparel,2008,104.67625
+Apparel,2009,105.8301875
+Household furnishings and operations,1986,105.045454545
+Household furnishings and operations,1987,103.8375
+Household furnishings and operations,1984,101.8
+Household furnishings and operations,1977,71.2
+Household furnishings and operations,1982,98.1571428571
+Household furnishings and operations,1983,100.285714286
+Household furnishings and operations,1980,85.5714285714
+Household furnishings and operations,1981,92.6857142857
+Household furnishings and operations,1979,79.1714285714
+Household furnishings and operations,1988,106.303125
+Household furnishings and operations,1989,107.634375
+Household furnishings and operations,2011,114.203458333
+Household furnishings and operations,2010,114.800875
+Household furnishings and operations,2012,115.113770833
+Household furnishings and operations,1985,103.71
+Household furnishings and operations,1991,112.328125
+Household furnishings and operations,1990,109.996875
+Household furnishings and operations,1993,114.909375
+Household furnishings and operations,1992,113.903125
+Household furnishings and operations,1995,118.653125
+Household furnishings and operations,1994,116.640625
+Household furnishings and operations,1997,120.848484848
+Household furnishings and operations,1996,120.771875
+Household furnishings and operations,1999,114.564583333
+Household furnishings and operations,1998,114.720833333
+Household furnishings and operations,1978,74.2428571429
+Household furnishings and operations,2002,115.25625
+Household furnishings and operations,2003,113.385416667
+Household furnishings and operations,2000,115.554166667
+Household furnishings and operations,2001,116.0
+Household furnishings and operations,2006,114.747916667
+Household furnishings and operations,2007,114.5655625
+Household furnishings and operations,2004,113.472916667
+Household furnishings and operations,2005,114.070833333
+Household furnishings and operations,2008,116.222125
+Household furnishings and operations,2009,117.517229167
+Medical care commodities,1986,121.063636364
+Medical care commodities,1987,116.95625
+Medical care commodities,1984,107.56
+Medical care commodities,1977,61.8
+Medical care commodities,1982,92.6714285714
+Medical care commodities,1983,100.571428571
+Medical care commodities,1980,76.1285714286
+Medical care commodities,1981,84.0142857143
+Medical care commodities,1979,69.0857142857
+Medical care commodities,1988,125.409375
+Medical care commodities,1989,134.915625
+Medical care commodities,2011,244.96525
+Medical care commodities,2010,237.836604167
+Medical care commodities,2012,249.079229167
+Medical care commodities,1985,115.79
+Medical care commodities,1991,158.8875
+Medical care commodities,1990,145.978125
+Medical care commodities,1993,175.871875
+Medical care commodities,1992,168.5125
+Medical care commodities,1995,184.490625
+Medical care commodities,1994,180.953125
+Medical care commodities,1997,191.118181818
+Medical care commodities,1996,190.05625
+Medical care commodities,1999,174.145833333
+Medical care commodities,1998,167.060416667
+Medical care commodities,1978,64.7857142857
+Medical care commodities,2002,192.804166667
+Medical care commodities,2003,196.5875
+Medical care commodities,2000,179.027083333
+Medical care commodities,2001,186.339583333
+Medical care commodities,2006,214.679166667
+Medical care commodities,2007,217.454416667
+Medical care commodities,2004,201.520833333
+Medical care commodities,2005,207.1625
+Medical care commodities,2008,223.554645833
+Medical care commodities,2009,230.757
+Transportation commodities less motor fuel,2009,100.0
+Transportation commodities less motor fuel,2011,104.811270833
+Transportation commodities less motor fuel,2010,101.307645833
+Transportation commodities less motor fuel,2012,106.490520833
+New vehicles,1986,110.181818182
+New vehicles,1987,107.525
+New vehicles,1984,102.95
+New vehicles,1977,73.8
+New vehicles,1982,97.0857142857
+New vehicles,1983,100.242857143
+New vehicles,1980,87.5285714286
+New vehicles,1981,92.8428571429
+New vehicles,1979,81.2142857143
+New vehicles,1988,109.409375
+New vehicles,1989,111.878125
+New vehicles,2011,123.7584375
+New vehicles,2010,120.019958333
+New vehicles,2012,126.2576875
+New vehicles,1985,106.5
+New vehicles,1991,118.640625
+New vehicles,1990,114.059375
+New vehicles,1993,125.146875
+New vehicles,1992,122.103125
+New vehicles,1995,132.540625
+New vehicles,1994,129.434375
+New vehicles,1997,134.606060606
+New vehicles,1996,135.171875
+New vehicles,1999,123.10625
+New vehicles,1998,123.51875
+New vehicles,1978,75.2
+New vehicles,2002,120.520833333
+New vehicles,2003,119.622916667
+New vehicles,2000,123.141666667
+New vehicles,2001,122.414583333
+New vehicles,2006,119.85625
+New vehicles,2007,118.362458333
+New vehicles,2004,119.947916667
+New vehicles,2005,121.116666667
+New vehicles,2008,116.243854167
+New vehicles,2009,117.943625
+Private transportation,1986,99.2090909091
+Private transportation,1987,103.503125
+Private transportation,1984,103.45
+Private transportation,1977,60.6
+Private transportation,1982,97.3142857143
+Private transportation,1983,99.4857142857
+Private transportation,1980,84.6142857143
+Private transportation,1981,94.5
+Private transportation,1979,72.4
+Private transportation,1988,106.671875
+Private transportation,1989,111.996875
+Private transportation,2011,188.579270833
+Private transportation,2010,171.010625
+Private transportation,2012,193.554458333
+Private transportation,1985,105.32
+Private transportation,1991,120.6625
+Private transportation,1990,117.834375
+Private transportation,1993,126.346875
+Private transportation,1992,123.33125
+Private transportation,1995,135.403125
+Private transportation,1994,130.271875
+Private transportation,1997,138.672727273
+Private transportation,1996,139.19375
+Private transportation,1999,126.302083333
+Private transportation,1998,123.889583333
+Private transportation,1978,63.0714285714
+Private transportation,2002,133.55625
+Private transportation,2003,138.079166667
+Private transportation,2000,134.185416667
+Private transportation,2001,134.908333333
+Private transportation,2006,160.25625
+Private transportation,2007,163.897125
+Private transportation,2004,143.422916667
+Private transportation,2005,154.010416667
+Private transportation,2008,173.2786875
+Private transportation,2009,157.8129375
+Commodities less food and energy commodities,1986,107.672727273
+Commodities less food and energy commodities,1987,106.459375
+Commodities less food and energy commodities,1984,104.49
+Commodities less food and energy commodities,1977,68.5
+Commodities less food and energy commodities,1982,95.9
+Commodities less food and energy commodities,1983,100.1
+Commodities less food and energy commodities,1980,83.0428571429
+Commodities less food and energy commodities,1981,89.4142857143
+Commodities less food and energy commodities,1979,76.7285714286
+Commodities less food and energy commodities,1988,110.66875
+Commodities less food and energy commodities,1989,114.25
+Commodities less food and energy commodities,2011,128.583895833
+Commodities less food and energy commodities,2010,126.841270833
+Commodities less food and energy commodities,2012,130.297375
+Commodities less food and energy commodities,1985,107.19
+Commodities less food and energy commodities,1991,123.053125
+Commodities less food and energy commodities,1990,118.325
+Commodities less food and energy commodities,1993,129.2
+Commodities less food and energy commodities,1992,126.4875
+Commodities less food and energy commodities,1995,133.34375
+Commodities less food and energy commodities,1994,130.95
+Commodities less food and energy commodities,1997,134.818181818
+Commodities less food and energy commodities,1996,135.009375
+Commodities less food and energy commodities,1999,125.872916667
+Commodities less food and energy commodities,1998,124.704166667
+Commodities less food and energy commodities,1978,71.0857142857
+Commodities less food and energy commodities,2002,125.38125
+Commodities less food and energy commodities,2003,123.041666667
+Commodities less food and energy commodities,2000,126.508333333
+Commodities less food and energy commodities,2001,126.83125
+Commodities less food and energy commodities,2006,123.283333333
+Commodities less food and energy commodities,2007,122.823270833
+Commodities less food and energy commodities,2004,122.0625
+Commodities less food and energy commodities,2005,123.129166667
+Commodities less food and energy commodities,2008,123.079166667
+Commodities less food and energy commodities,2009,125.015458333
+All items less shelter,1986,106.345454545
+All items less shelter,1987,106.596875
+All items less shelter,1984,104.05
+All items less shelter,1977,64.1
+All items less shelter,1982,96.2571428571
+All items less shelter,1983,100.114285714
+All items less shelter,1980,83.0142857143
+All items less shelter,1981,91.2
+All items less shelter,1979,74.3714285714
+All items less shelter,1988,110.628125
+All items less shelter,1989,115.840625
+All items less shelter,2011,186.186958333
+All items less shelter,2010,178.701520833
+All items less shelter,2012,190.321770833
+All items less shelter,1985,106.67
+All items less shelter,1991,127.31875
+All items less shelter,1990,122.40625
+All items less shelter,1993,134.578125
+All items less shelter,1992,130.759375
+All items less shelter,1995,141.625
+All items less shelter,1994,137.878125
+All items less shelter,1997,147.151515152
+All items less shelter,1996,145.7625
+All items less shelter,1999,136.279166667
+All items less shelter,1998,133.602083333
+All items less shelter,1978,67.4285714286
+All items less shelter,2002,145.239583333
+All items less shelter,2003,148.470833333
+All items less shelter,2000,140.920833333
+All items less shelter,2001,144.266666667
+All items less shelter,2006,163.83125
+All items less shelter,2007,168.076041667
+All items less shelter,2004,152.595833333
+All items less shelter,2005,158.74375
+All items less shelter,2008,175.706458333
+All items less shelter,2009,173.906666667
+Medical care services,1986,119.372727273
+Medical care services,1987,116.6
+Medical care services,1984,106.87
+Medical care services,1977,55.6
+Medical care services,1982,92.7714285714
+Medical care services,1983,101.1
+Medical care services,1980,74.3142857143
+Medical care services,1981,82.8571428571
+Medical care services,1979,65.8142857143
+Medical care services,1988,123.209375
+Medical care services,1989,132.115625
+Medical care services,2011,306.1489375
+Medical care services,2010,297.26675
+Medical care services,2012,319.30975
+Medical care services,1985,112.15
+Medical care services,1991,157.171875
+Medical care services,1990,144.946875
+Medical care services,1993,178.5125
+Medical care services,1992,168.45625
+Medical care services,1995,198.01875
+Medical care services,1994,188.065625
+Medical care services,1997,207.154545455
+Medical care services,1996,204.75625
+Medical care services,1999,185.079166667
+Medical care services,1998,179.060416667
+Medical care services,1978,59.6428571429
+Medical care services,2002,211.885416667
+Medical care services,2003,221.527083333
+Medical care services,2000,191.95625
+Medical care services,2001,201.23125
+Medical care services,2006,255.370833333
+Medical care services,2007,268.683041667
+Medical care services,2004,233.139583333
+Medical care services,2005,245.175
+Medical care services,2008,279.120895833
+Medical care services,2009,287.772791667
+Energy,1986,87.1882352941
+Energy,1987,98.36875
+Energy,1984,100.5375
+Energy,1977,52.8
+Energy,1982,98.9769230769
+Energy,1983,100.476923077
+Energy,1980,86.6769230769
+Energy,1981,98.1076923077
+Energy,1979,67.5
+Energy,1988,98.909375
+Energy,1989,104.45625
+Energy,2011,256.546583333
+Energy,2010,221.782833333
+Energy,2012,259.017895833
+Energy,1985,100.35625
+Energy,1991,113.103125
+Energy,1990,112.871875
+Energy,1993,114.99375
+Energy,1992,113.653125
+Energy,1995,116.484375
+Energy,1994,115.646875
+Energy,1997,122.263636364
+Energy,1996,121.85625
+Energy,1999,111.9625
+Energy,1998,108.016666667
+Energy,1978,54.8
+Energy,2002,127.891666667
+Energy,2003,142.991666667
+Energy,2000,130.420833333
+Energy,2001,135.183333333
+Energy,2006,206.85625
+Energy,2007,218.062541667
+Energy,2004,158.816666667
+Energy,2005,185.95
+Energy,2008,248.2725
+Energy,2009,202.568666667
+Utility (piped) gas service,1986,98.3058823529
+Utility (piped) gas service,1987,98.028125
+Utility (piped) gas service,1984,106.3
+Utility (piped) gas service,1985,104.74375
+Utility (piped) gas service,1982,87.8416666667
+Utility (piped) gas service,1983,105.85
+Utility (piped) gas service,1988,98.25
+Utility (piped) gas service,1989,98.45625
+Utility (piped) gas service,2011,172.922375
+Utility (piped) gas service,2010,177.836916667
+Utility (piped) gas service,2012,158.343041667
+Utility (piped) gas service,1991,100.2
+Utility (piped) gas service,1990,98.98125
+Utility (piped) gas service,1993,106.55625
+Utility (piped) gas service,1992,102.696875
+Utility (piped) gas service,1995,104.284375
+Utility (piped) gas service,1994,109.034375
+Utility (piped) gas service,1997,115.527272727
+Utility (piped) gas service,1996,109.578125
+Utility (piped) gas service,1999,109.089583333
+Utility (piped) gas service,1998,108.385416667
+Utility (piped) gas service,2002,132.4375
+Utility (piped) gas service,2003,158.672916667
+Utility (piped) gas service,2000,127.725
+Utility (piped) gas service,2001,153.029166667
+Utility (piped) gas service,2006,212.03125
+Utility (piped) gas service,2007,207.989666667
+Utility (piped) gas service,2004,171.404166667
+Utility (piped) gas service,2005,204.622916667
+Utility (piped) gas service,2008,235.947979167
+Utility (piped) gas service,2009,184.081541667
+All items less energy,1986,110.072727273
+All items less energy,1987,108.565625
+All items less energy,1984,104.21
+All items less energy,1977,63.1
+All items less energy,1982,96.5714285714
+All items less energy,1983,99.6714285714
+All items less energy,1980,80.9428571429
+All items less energy,1981,88.9142857143
+All items less energy,1979,73.0714285714
+All items less energy,1988,113.2
+All items less energy,1989,118.3125
+All items less energy,2011,182.0731875
+All items less energy,2010,178.634
+All items less energy,2012,186.448479167
+All items less energy,1985,107.64
+All items less energy,1991,130.21875
+All items less energy,1990,124.7125
+All items less energy,1993,138.34375
+All items less energy,1992,134.1125
+All items less energy,1995,146.821875
+All items less energy,1994,142.246875
+All items less energy,1997,153.03030303
+All items less energy,1996,151.175
+All items less energy,1999,142.089583333
+All items less energy,1998,139.225
+All items less energy,1978,66.5
+All items less energy,2002,151.877083333
+All items less energy,2003,154.095833333
+All items less energy,2000,145.220833333
+All items less energy,2001,148.872916667
+All items less energy,2006,164.5125
+All items less energy,2007,168.786104167
+All items less energy,2004,156.970833333
+All items less energy,2005,160.5625
+All items less energy,2008,173.6324375
+All items less energy,2009,176.8683125
+Shelter,1986,111.281818182
+Shelter,1987,109.35
+Shelter,1984,103.07
+Shelter,1977,57.1
+Shelter,1982,98.3571428571
+Shelter,1983,99.0571428571
+Shelter,1980,78.6285714286
+Shelter,1981,87.2857142857
+Shelter,1979,68.4428571429
+Shelter,1988,114.115625
+Shelter,1989,118.953125
+Shelter,2011,190.891520833
+Shelter,2010,188.690229167
+Shelter,2012,195.344645833
+Shelter,1985,107.55
+Shelter,1991,130.65
+Shelter,1990,125.41875
+Shelter,1993,139.015625
+Shelter,1992,134.578125
+Shelter,1995,149.275
+Shelter,1994,143.565625
+Shelter,1997,157.23030303
+Shelter,1996,154.615625
+Shelter,1999,146.685416667
+Shelter,1998,143.091666667
+Shelter,1978,60.1714285714
+Shelter,2002,160.077083333
+Shelter,2003,163.385416667
+Shelter,2000,150.6125
+Shelter,2001,155.24375
+Shelter,2006,176.422916667
+Shelter,2007,182.568270833
+Shelter,2004,166.772916667
+Shelter,2005,170.652083333
+Shelter,2008,187.469666667
+Shelter,2009,189.581229167
+Nondurables less food and beverages,1986,96.6363636364
+Nondurables less food and beverages,1987,102.21875
+Nondurables less food and beverages,1984,101.42
+Nondurables less food and beverages,1977,63.2
+Nondurables less food and beverages,1982,98.4857142857
+Nondurables less food and beverages,1983,100.214285714
+Nondurables less food and beverages,1980,88.8428571429
+Nondurables less food and beverages,1981,97.5428571429
+Nondurables less food and beverages,1979,74.2428571429
+Nondurables less food and beverages,1988,106.825
+Nondurables less food and beverages,1989,113.065625
+Nondurables less food and beverages,2011,196.1703125
+Nondurables less food and beverages,2010,178.399458333
+Nondurables less food and beverages,2012,200.9883125
+Nondurables less food and beverages,1985,103.42
+Nondurables less food and beverages,1991,125.75625
+Nondurables less food and beverages,1990,121.76875
+Nondurables less food and beverages,1993,130.471875
+Nondurables less food and beverages,1992,128.5
+Nondurables less food and beverages,1995,131.953125
+Nondurables less food and beverages,1994,130.525
+Nondurables less food and beverages,1997,135.712121212
+Nondurables less food and beverages,1996,135.21875
+Nondurables less food and beverages,1999,128.172916667
+Nondurables less food and beverages,1998,123.025
+Nondurables less food and beverages,1978,64.5285714286
+Nondurables less food and beverages,2002,135.241666667
+Nondurables less food and beverages,2003,139.585416667
+Nondurables less food and beverages,2000,137.2
+Nondurables less food and beverages,2001,137.214583333
+Nondurables less food and beverages,2006,165.679166667
+Nondurables less food and beverages,2007,171.056708333
+Nondurables less food and beverages,2004,146.645833333
+Nondurables less food and beverages,2005,157.860416667
+Nondurables less food and beverages,2008,183.7679375
+Nondurables less food and beverages,2009,167.400979167
+Services less rent of shelter,1986,115.490909091
+Services less rent of shelter,1987,112.003125
+Services less rent of shelter,1984,108.13
+Services less rent of shelter,1985,112.44
+Services less rent of shelter,1982,100.0
+Services less rent of shelter,1983,103.271428571
+Services less rent of shelter,1988,116.346875
+Services less rent of shelter,1989,121.878125
+Services less rent of shelter,2011,229.462354167
+Services less rent of shelter,2010,224.510333333
+Services less rent of shelter,2012,235.351333333
+Services less rent of shelter,1991,136.859375
+Services less rent of shelter,1990,129.5125
+Services less rent of shelter,1993,148.95
+Services less rent of shelter,1992,142.603125
+Services less rent of shelter,1995,160.065625
+Services less rent of shelter,1994,154.428125
+Services less rent of shelter,1997,168.266666667
+Services less rent of shelter,1996,165.709375
+Services less rent of shelter,1999,153.43125
+Services less rent of shelter,1998,150.24375
+Services less rent of shelter,2002,170.88125
+Services less rent of shelter,2003,177.597916667
+Services less rent of shelter,2000,158.727083333
+Services less rent of shelter,2001,166.247916667
+Services less rent of shelter,2006,199.077083333
+Services less rent of shelter,2007,205.4650625
+Services less rent of shelter,2004,183.01875
+Services less rent of shelter,2005,190.658333333
+Services less rent of shelter,2008,215.140291667
+Services less rent of shelter,2009,219.709791667
+Services less energy services,1986,112.9
+Services less energy services,1987,110.521875
+Services less energy services,1984,104.12
+Services less energy services,1977,57.1
+Services less energy services,1982,96.9428571429
+Services less energy services,1983,99.4428571429
+Services less energy services,1980,76.8571428571
+Services less energy services,1981,86.4857142857
+Services less energy services,1979,67.1857142857
+Services less energy services,1988,115.45
+Services less energy services,1989,120.978125
+Services less energy services,2011,210.9795
+Services less energy services,2010,207.533083333
+Services less energy services,2012,216.768895833
+Services less energy services,1985,108.78
+Services less energy services,1991,135.246875
+Services less energy services,1990,128.56875
+Services less energy services,1993,145.94375
+Services less energy services,1992,140.35
+Services less energy services,1995,157.5
+Services less energy services,1994,151.29375
+Services less energy services,1997,165.936363636
+Services less energy services,1996,163.215625
+Services less energy services,1999,153.122916667
+Services less energy services,1998,149.33125
+Services less energy services,1978,60.2714285714
+Services less energy services,2002,168.664583333
+Services less energy services,2003,173.222916667
+Services less energy services,2000,157.4625
+Services less energy services,2001,162.895833333
+Services less energy services,2006,188.814583333
+Services less energy services,2007,195.35025
+Services less energy services,2004,177.497916667
+Services less energy services,2005,182.4125
+Services less energy services,2008,201.717291667
+Services less energy services,2009,205.7225625
+All items less food,1986,107.090909091
+All items less food,1987,106.93125
+All items less food,1984,103.71
+All items less food,1977,61.3
+All items less food,1982,96.8857142857
+All items less food,1983,99.8428571429
+All items less food,1980,80.7714285714
+All items less food,1981,89.3714285714
+All items less food,1979,71.2571428571
+All items less food,1988,111.15
+All items less food,1989,116.0
+All items less food,2011,186.259166667
+All items less food,2010,180.527166667
+All items less food,2012,190.3325625
+All items less food,1985,106.94
+All items less food,1991,127.784375
+All items less food,1990,122.478125
+All items less food,1993,135.984375
+All items less food,1992,131.8375
+All items less food,1995,143.984375
+All items less food,1994,139.6375
+All items less food,1997,149.86969697
+All items less food,1996,148.315625
+All items less food,1999,139.033333333
+All items less food,1998,136.0625
+All items less food,1978,64.0142857143
+All items less food,2002,149.35
+All items less food,2003,152.577083333
+All items less food,2000,143.677083333
+All items less food,2001,147.36875
+All items less food,2006,167.570833333
+All items less food,2007,172.046395833
+All items less food,2004,156.239583333
+All items less food,2005,162.03125
+All items less food,2008,178.3785625
+All items less food,2009,177.086479167
+New cars,1986,110.145454545
+New cars,1987,107.625
+New cars,1984,103.14
+New cars,1977,73.8
+New cars,1982,97.0428571429
+New cars,1983,100.142857143
+New cars,1980,87.5142857143
+New cars,1981,92.8
+New cars,1979,81.2142857143
+New cars,1988,109.821875
+New cars,1989,111.98125
+New cars,2011,124.633020833
+New cars,2010,120.373104167
+New cars,2012,127.199875
+New cars,1985,106.7
+New cars,1991,117.7125
+New cars,1990,113.3375
+New cars,1993,123.715625
+New cars,1992,121.2
+New cars,1995,130.365625
+New cars,1994,127.59375
+New cars,1997,131.936363636
+New cars,1996,132.825
+New cars,1999,120.622916667
+New cars,1998,121.641666667
+New cars,1978,75.1857142857
+New cars,2002,118.364583333
+New cars,2003,116.61875
+New cars,2000,120.560416667
+New cars,2001,120.089583333
+New cars,2006,118.916666667
+New cars,2007,118.099833333
+New cars,2004,116.766666667
+New cars,2005,118.677083333
+New cars,2008,118.4309375
+New cars,2009,119.683291667
+Energy commodities,1986,76.9588235294
+Energy commodities,1987,96.971875
+Energy commodities,1984,97.675
+Energy commodities,1977,50.6
+Energy commodities,1982,103.215384615
+Energy commodities,1983,99.1
+Energy commodities,1980,95.1923076923
+Energy commodities,1981,107.7
+Energy commodities,1979,68.6
+Energy commodities,1988,97.665625
+Energy commodities,1989,105.623333333
+Energy commodities,2011,346.2373125
+Energy commodities,2010,274.315354167
+Energy commodities,2012,356.407375
+Energy commodities,1985,96.84375
+Energy commodities,1991,119.98125
+Energy commodities,1990,121.05
+Energy commodities,1993,118.309375
+Energy commodities,1992,119.1125
+Energy commodities,1995,120.3375
+Energy commodities,1994,118.384375
+Energy commodities,1997,127.827272727
+Energy commodities,1996,128.771875
+Energy commodities,1999,113.922916667
+Energy commodities,1998,104.602083333
+Energy commodities,1978,51.6384615385
+Energy commodities,2002,132.391666667
+Energy commodities,2003,154.520833333
+Energy commodities,2000,147.095833333
+Energy commodities,2001,142.377083333
+Energy commodities,2006,253.56875
+Energy commodities,2007,273.396270833
+Energy commodities,2004,182.585416667
+Energy commodities,2005,224.489583333
+Energy commodities,2008,321.894333333
+Energy commodities,2009,232.071
+Education and communication,1997,100.0
+Education and communication,1999,100.772916667
+Education and communication,1998,100.2
+Education and communication,2002,107.7125
+Education and communication,2003,109.635416667
+Education and communication,2000,102.041666667
+Education and communication,2001,104.847916667
+Education and communication,2006,117.1375
+Education and communication,2007,120.192958333
+Education and communication,2004,111.660416667
+Education and communication,2005,113.775
+Education and communication,2008,124.049583333
+Education and communication,2009,127.733354167
+Education and communication,2011,132.440104167
+Education and communication,2010,130.333479167
+Education and communication,2012,135.334020833
+Owners' equivalent rent of primary residence,1986,113.636363636
+Owners' equivalent rent of primary residence,1987,110.653125
+Owners' equivalent rent of primary residence,1984,105.77
+Owners' equivalent rent of primary residence,1985,110.08
+Owners' equivalent rent of primary residence,1982,100.0
+Owners' equivalent rent of primary residence,1983,102.028571429
+Owners' equivalent rent of primary residence,1988,115.7875
+Owners' equivalent rent of primary residence,1989,121.09375
+Owners' equivalent rent of primary residence,2011,193.7011875
+Owners' equivalent rent of primary residence,2010,191.807479167
+Owners' equivalent rent of primary residence,2012,197.945375
+Owners' equivalent rent of primary residence,1991,132.328125
+Owners' equivalent rent of primary residence,1990,127.75
+Owners' equivalent rent of primary residence,1993,140.9
+Owners' equivalent rent of primary residence,1992,136.20625
+Owners' equivalent rent of primary residence,1995,152.096875
+Owners' equivalent rent of primary residence,1994,146.0
+Owners' equivalent rent of primary residence,1997,160.015151515
+Owners' equivalent rent of primary residence,1996,157.615625
+Owners' equivalent rent of primary residence,1999,148.460416667
+Owners' equivalent rent of primary residence,1998,144.864583333
+Owners' equivalent rent of primary residence,2002,162.797916667
+Owners' equivalent rent of primary residence,2003,165.866666667
+Owners' equivalent rent of primary residence,2000,152.354166667
+Owners' equivalent rent of primary residence,2001,157.304166667
+Owners' equivalent rent of primary residence,2006,178.4375
+Owners' equivalent rent of primary residence,2007,184.105791667
+Owners' equivalent rent of primary residence,2004,168.860416667
+Owners' equivalent rent of primary residence,2005,172.554166667
+Owners' equivalent rent of primary residence,2008,189.032229167
+Owners' equivalent rent of primary residence,2009,192.125520833

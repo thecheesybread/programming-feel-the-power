@@ -1,23 +1,5 @@
-
 import csv
 
-#input_file = open('cu.data.1.AllItems.txt', 'r')
-#input_file = open('cu.data.0.Current.txt', 'r')
-input_file = open('cu.data.Education.txt', 'r')
-print input_file.readline()
-data = {}
-for line in input_file:
-    line_split = line.split('\t')
-    series_id = line_split[0].strip()
-    year = line_split[1].strip()
-    period = line_split[2].strip()
-    value = line_split[3].strip()
-    if series_id not in data:
-        data[series_id] = {}
-    if year not in data[series_id]:
-        data[series_id][year] = []
-    data[series_id][year].append(float(value))            
-input_file.close()
 #data_dumped = json.dumps(data)
 #output_file = open('cleaned_cpi_data.txt', 'w')
 
@@ -54,6 +36,28 @@ for series_id, item_code in series_id_to_item_code.items():
     series_id_to_item_name[series_id] = item_code_to_item_name[item_code]
 
 
+#input_file = open('cu.data.1.AllItems.txt', 'r')
+#input_file = open('cu.data.0.Current.txt', 'r')
+#input_file = open('cu.data.Education.txt', 'r')
+input_file = open('cu.data.19.PopulationSize.txt', 'r')
+print input_file.readline()
+data = {}
+for line in input_file:
+    line_split = line.split('\t')
+    series_id = line_split[0].strip()
+    year = line_split[1].strip()
+    period = line_split[2].strip()
+    value = line_split[3].strip()
+    item_name = series_id_to_item_name[series_id]
+    if item_name not in data:
+        data[item_name] = {}
+    if year not in data[item_name]:
+        data[item_name][year] = []
+    data[item_name][year].append(float(value))            
+input_file.close()
+
+
+
 
 l = [1,2,3,4]
 sum(l) / float(len(l))
@@ -61,9 +65,9 @@ sum(l) / float(len(l))
 data_output = open('clean_cpi_data.csv', 'w')
 csv_writer = csv.writer(data_output)
 csv_writer.writerow(('Item name', 'Year', 'Average Value'))
-for series_id, year_dict in data.items():
+for item_name, year_dict in data.items():
     for year, cpis in year_dict.items():
-        csv_writer.writerow((series_id_to_item_name[series_id], year, sum(cpis)/float(len(cpis)) ))
+        csv_writer.writerow((item_name, year, sum(cpis)/float(len(cpis)) ))
 
 
 
