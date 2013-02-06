@@ -5,6 +5,8 @@ def respond(text):
         return "it ain't nothing but a heartache"
     elif text == "bye":
         return "bye"
+    elif text == "big baby":
+        return "you are a big baby"
     else:
         return "some random response"
 
