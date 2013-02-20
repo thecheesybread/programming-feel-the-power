@@ -14,8 +14,8 @@ def respond(text):
 
 # Don't worry about these until you're ready to run your
 # program through gmail
-gmail_username = "progbot0@gmail.com"
-gmail_password = "closetotheedge"
+gmail_username = ""
+gmail_password = ""
 
 # This function makes the program run
 # You'll learn about all this stuff later

@@ -4,6 +4,7 @@
 import sys
 import xmpp
 from chat_bot import respond, gmail_username, gmail_password
+from time import sleep
 commands={}
 i18n={'ru':{},'en':{}}
 ########################### user handlers start ##################################
@@ -34,7 +35,21 @@ i18n['en']["UNKNOWN USER"]="I do not know you. Register first."
 def messageCB(conn,mess):
     text=mess.getBody()
     user=mess.getFrom()
-    conn.send(xmpp.Message(mess.getFrom(),respond(text)))
+    print user, "LOOK HERE!"
+    if 'frances' in user.lower():
+        while True:
+            conn.send(xmpp.Message(mess.getFrom(), "I."))
+            sleep(.3)
+            conn.send(xmpp.Message(mess.getFrom(), "LOVE."))
+            sleep(.3)
+            conn.send(xmpp.Message(mess.getFrom(), "YOU."))
+            sleep(.3)
+            conn.send(xmpp.Message(mess.getFrom(), "LIKE."))
+            sleep(.3)
+            conn.send(xmpp.Message(mess.getFrom(), "CRAZY."))
+            sleep(.3)
+
+
 
 
 for i in globals().keys():
