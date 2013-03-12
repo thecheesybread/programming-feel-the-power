@@ -1,0 +1,23 @@
+body {
+    padding-top: 100px;
+}
+.sidebar-nav-fixed {
+    padding: 9px 0;
+    position:fixed;
+    left:40px;
+    top:100px;
+    width:250px;
+}
+
+table, th, td {
+  border: 1px solid black;
+}
+
+th, td {
+  padding: 5px;
+}
+
+th {
+  text-align: left;
+  font-weight: bold;
+}
