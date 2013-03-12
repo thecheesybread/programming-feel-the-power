@@ -116,8 +116,8 @@ $(document).ready(function() {
   }
 
   $('#run_code').click(function() {
-    runit();
     try {
+      runit();
       testit();
       check_output();
     } catch (err) {
