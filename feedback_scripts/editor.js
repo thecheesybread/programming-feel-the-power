@@ -78,6 +78,17 @@ $(document).ready(function() {
     x["append"] = "print (add_three_numbers(1, 2, 3) * 10) == 60";
     x["print"] = "True";
     exercises[6] = x;
+
+    x = {};
+    x["prompt"] = "Write a for loop that prints out the numbers 0 through 9 line by line"
+    x["hint"] = "The syntax for printing out numbers 4 through 12 line by line is  <br><pre>for x in range(4, 13):\n\tprint x</pre>";
+    x["append"] = "";
+    x["print"] = "0\n1\n2\n3\n4\n5\n6\n7\n8\n9";
+    exercises[7] = x;
+
+
+
+
     current_index = parseInt(getParameterByName('exercise'));
     if (!current_index) {
       current_index = 0;
