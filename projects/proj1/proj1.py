@@ -1,90 +1,34 @@
 import urllib2
-from bs4 import BeautifulSoup, SoupStrainer
-import sys
-
-'''this is the wrapper file for project 1. fill these functions out'''
-
-def identity(word):
-    return word
-
-def get_urls_on_page(url):
-    response = urllib2.urlopen(url)
-    all_urls = []
-    for link in BeautifulSoup(response, parseOnlyThese=SoupStrainer('a')):
-        if link.has_key('href'):
-            all_urls.append(link['href'])
-    return all_urls
-
-def containsWord(url, word):
-    response = urllib2.urlopen(url)
-    print word in response
-
-def get_title(html):
-    '''Given the html text of a craigslist post, returns the title'''
-    #fill out here
-    title = 'title'
-    return title
-
-def get_date(html):
-    ''' Given the html text of a craigslist post, returns the date'''
-    #fill out here
-    date = 'date'
-    return date
-
-def get_price(html):
-    ''' Given the html text of a craigslist post, returns the price'''
-    #fill out here
-    price = 'price'
-    return price
-
-def get_description(html):
-    '''Given the html text of a craigslist post, returns the description'''
-    #fill out here
-    description = 'description'
-    return description
+import json
+file_to_read_from = open('all_urls.json', 'r')
+all_titles_and_urls = json.loads(file_to_read_from.read())
+file_to_read_from.close()
 
 
-def get_craigslist_info(url):
-    '''Given the url of a craigslist post, gets the html and calls other functions that were defined to get the title, body, date, and description of the craigslist post'''
-    response = urllib2.urlopen(url)
-    title = get_title(response)
-    date = get_date(response)
-    price = get_price(response)
-    description = get_description(response)
-    info = {'title' : title, 'date' : date, 'price' : price, 'description' : description}
-    return info
-
-def collect_info():
-    '''Given your assigned topic, write a script that returns a list of information dictionaries for that topic. An example below scrapes all information for berkeley apartments.'''
-    pass
-
-def collect_east_bay_apartments():
-    base_url = 'http://sfbay.craigslist.org/eby/apa/'
-    count = 0
-    all_east_bay_apartments = []
-    while True:
-        if count == 0:
-            current_url = base_url
-        else:
-            current_url = base_url + 'index' + str(count) + '.html'
-        try:
-            possible_ad_urls = get_urls_on_page(current_url)
-        except:
-            break
-        '''when no more urls there is an error and this catches it'''
-        ad_urls = []
-        for possible_ad_url in possible_ad_urls:
-            if base_url in possible_ad_url:
-                ad_urls.append(possible_ad_url)
-        for ad_url in ad_urls:
-            east_bay_apartment_info = get_craigslist_info(ad_url)
-            east_bay_apartment_info['ad_url'] = ad_url
-            all_east_bay_apartments.append(east_bay_apartment_info)
-        count += 100
-    return all_east_bay_apartments
-
-if __name__ == '__main__':
-    #print get_craigslist_info(sys.argv[1])
-    print collect_east_bay_apartments()
+some_titles_and_urls = [{"url": "http://allrecipes.com/recipe/-applesauce-pumpkin-bread/detail.aspx", "title": " Applesauce Pumpkin Bread"}, {"url": "http://allrecipes.com/recipe/-banana-peanut-butter-cheesecake-aka-the-elvis/detail.aspx", "title": " Banana Peanut Butter Cheesecake aka &#34;The Elvis&#34;"}, {"url": "http://allrecipes.com/recipe/bowl-full-of-cherry-ham-glaze/detail.aspx", "title": "&#34;Bowl Full of Cherry&#34; Ham Glaze"}, {"url": "http://allrecipes.com/recipe/couldnt-be-easier-three-bean-salad/detail.aspx", "title": "&#34;Couldn't Be Easier&#34; Three-Bean Salad"}, {"url": "http://allrecipes.com/recipe/fruit-smoothie-no-bake-cheesecake-from-philadelphia/detail.aspx", "title": "&#34;Fruit Smoothie&#34; No-Bake Cheesecake from PHILADELPHIA&#174;"}, {"url": "http://allrecipes.com/recipe/million-dollar-chinese-cabbage-salad/detail.aspx", "title": "&#34;Million Dollar&#34; Chinese Cabbage Salad  "}, {"url": "http://allrecipes.com/recipe/pantry-raid-chicken-enchilada-casserole/detail.aspx", "title": "&#34;Pantry Raid&#34; Chicken Enchilada Casserole"}, {"url": "http://allrecipes.com/recipe/spactacular-frozen-grapes/detail.aspx", "title": "&#34;Spa&#34;ctacular Frozen Grapes"}, {"url": "http://allrecipes.com/recipe/zuccotto-cupcakes/detail.aspx", "title": "&#34;Zuccotto&#34; Cupcakes"}, {"url": "http://allrecipes.com/recipe/1-pea-salad-most-requested/detail.aspx", "title": "#1 Pea Salad Most Requested!"}, {"url": "http://allrecipes.com/recipe/1-pumpkin-spice-cookies/detail.aspx", "title": "#1 Pumpkin Spice Cookies"}, {"url": "http://allrecipes.com/recipe/gluten-free-magic-cookie-bars/detail.aspx", "title": "(Gluten Free) Magic Cookie Bars"}, {"url": "http://allrecipes.com/recipe/10-pound-cheesecake/detail.aspx", "title": "10 Pound Cheesecake"}, {"url": "http://allrecipes.com/recipe/100-percent-whole-wheat-bread/detail.aspx", "title": "100 Percent Whole Wheat Bread"}, {"url": "http://allrecipes.com/recipe/100-fruit-cake/detail.aspx", "title": "100% Fruit &#34;Cake&#34;"}, {"url": "http://allrecipes.com/recipe/10-minute-tomato-basil-salad/detail.aspx", "title": "10-Minute Tomato Basil Salad"}, {"url": "http://allrecipes.com/recipe/120-calorie-peach-pies/detail.aspx", "title": "120 Calorie Peach Pies"}, {"url": "http://allrecipes.com/recipe/121-whipped-cream/detail.aspx", "title": "121 Whipped Cream"}, {"url": "http://allrecipes.com/recipe/123-green-tea-ice-cream/detail.aspx", "title": "123 Green Tea Ice Cream"}, {"url": "http://allrecipes.com/recipe/1-2-3-jambalaya/detail.aspx", "title": "1-2-3 Jambalaya"}]
 
 
+
+#Given a url for a recipe and the title of the recipe
+def get_ingredients(url, title):
+    html = urllib2.urlopen(url)
+    result = {}
+    result['title'] = title
+    ingredient_list = []
+    #fill this out
+    
+
+
+
+
+    #fill this out
+    result['ingredients'] = ingredient_list
+    return result
+
+
+print get_ingredients('http://allrecipes.com/recipe/apple-crisp-ii/detail.aspx', 'Apple Crisp II')
+
+
+
+
+    

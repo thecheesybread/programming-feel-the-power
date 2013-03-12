@@ -91,7 +91,7 @@ def get_avg_deviation_from_inflation(item):
 #Returns a list of items whose price levels deviate from inflation by more than 8%
 #*****************FILL THIS OUT********************
 def get_items_with_high_deviation_from_inflation():
-
+    print 'LENGTH OF HIGH DEVIATION FROM INFLATION IS ' + str(len(items_list))
     #HINT: Use items_list (a list of all the items inside specific_items) and get_avg_deviation_from_inflation
     #fill in stuff here
     #fill in stuff here
