@@ -7,6 +7,7 @@ admin.autodiscover()
 urlpatterns = patterns(
     '',
     url(r'^$', 'recipe_genie.views.home'),
+    url(r'^get_recipes$', 'recipe_genie.views.get_recipes'),
     # url(r'^recipe_genie/', include('recipe_genie.foo.urls')),
 
     # Uncomment the admin/doc line below to enable admin documentation:
