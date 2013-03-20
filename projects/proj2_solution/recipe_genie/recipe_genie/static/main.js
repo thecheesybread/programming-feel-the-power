@@ -33,7 +33,7 @@ $(document).ready(function() {
 
   var addIngredient = function() {
     var ingredient = $('#new_ingredient_field').val();
-    if (currentIngredients.indexOf(ingredient) === -1) {
+    if (ingredient !== '' && currentIngredients.indexOf(ingredient) === -1) {
       currentIngredients.push(ingredient);
       var ingredientSpan = '<span class="ingredient">' + ingredient +
         '<button class="close">&times;</button></span>';
