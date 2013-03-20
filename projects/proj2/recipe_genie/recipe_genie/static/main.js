@@ -12,7 +12,19 @@ $(document).ready(function() {
   });
 
   var populateRecipes = function() {
-    console.log('TODO: populateRecipes');
+    $.ajax({
+      url: '/get_recipes',
+      data: {ingredients: JSON.stringify(currentIngredients)}
+    }).done(function(res) {
+      $('#recipes_container').html('');
+      recipes = JSON.parse(res);
+      var max = Math.min(recipes.length, 30);
+      for (var i = 0; i < max; i++) {
+        var recipeLink = '<a href="' + recipes[i]['url'] + '">' +
+          recipes[i]['title'] + '</a><br>'
+        $('#recipes_container').append(recipeLink);
+      }
+    });
   };
 
   var addIngredient = function() {
