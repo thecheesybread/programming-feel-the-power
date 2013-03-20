@@ -4,6 +4,7 @@ from django.utils import simplejson as json
 from models import Recipe, Ingredient
 from django.db.models import Q
 from django.http import HttpResponse
+from django.db.models import Count
 def home(request):
     c = {}
     c.update(csrf(request))
@@ -15,17 +16,9 @@ ingredient_set = set(ingredient_list)
 def get_recipes(request):
     #json_data = json.loads(request.raw_post_data)
     #ingredients = json_data['ingredients']
-    ingredients = ['chicken', 'garlic']
-    q = Q()
-    for ingredient in ingredients:
-        ingredient = ingredient.lower().strip()
-        try:
-            ingredient_obj = Ingredient.objects.get(name=ingredient)
-            q &= Q(ingredient__name=ingredient)
-        except:
-            pass
-    print q
-    print Recipe.objects.filter(ingredient__name=q)
-    #print Recipe.objects.filter(q)[1]
-    #print Recipe.objects.filter(q)[2]
-    return HttpResponse("Success")
+    ingredients = ['chicken', 'garlic', 'ginger']
+    for i in range(len(ingredients)):
+        ingredients[i] = ingredients[i].lower().strip()
+    result_or = Recipe.objects.filter(ingredient__name__in=ingredients).annotate(total=Count('ingredient__name')).filter(total=len(ingredients)/2 + 1)
+    response = json.dumps(list(result_or.values('title', 'url')))
+    return HttpResponse(response)
