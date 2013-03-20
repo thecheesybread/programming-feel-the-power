@@ -1,17 +1,24 @@
 <html>
 <head>
 <title>Recipe Genie</title>
-<script type="text/javascipt" src="/static/lib/jquery/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="/static/lib/jquery/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="/static/lib/bootstrap/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="/static/main.js"></script>
 <link rel="stylesheet" href="/static/lib/bootstrap/css/bootstrap.min.css">
+<link rel="stylesheet" href="/static/main.css">
 </head>
 <body>
-<div class="container-fluid">
+<div id="page" class="container-fluid">
+  <center><h3>Ask the Recipe Genie!</h3></center>
   <div class="row-fluid">
-    <div class="span2"></div>
-    <div class="span8">
-      <h4> What's up </h4>
+    <div class="span4"></div>
+    <div class="span4">
+      <div id="new_ingredient_container" class="input-append">
+        <input type="text" id="new_ingredient_field" placeholder="Type an ingredient name..." autocomplete="off">
+        <button id="add_ingredient" class="btn btn-primary">Add</button>
+      </div>
     </div>
-    <div class="span2"></div>
+    <div class="span4"></div>
   </div>
 </div>
 </body>
