@@ -56,24 +56,6 @@ def store_recipe_ingredients():
     results_file.close()
 
 
-def store_recipe_ingredients_large():
-    all_results = []
-    count = 0
-    for url_title_dict in all_titles_and_urls:
-        print count
-        count+=1
-        if count > 10000:
-            break
-        url = url_title_dict['url']
-        title = url_title_dict['title']
-        result_dict = get_ingredients(url, title)
-        all_results.append(result_dict)
-    results_file = open('recipe_ingredients_10000.json', 'w')
-    results_file.write(json.dumps(all_results))
-    results_file.close()
-store_recipe_ingredients_large()
-
-
 def load_recipe_ingredients():
     ingredients_file = open('recipe_ingredients.json', 'r')
     all_recipe_ingredients = json.loads(ingredients_file.read())
