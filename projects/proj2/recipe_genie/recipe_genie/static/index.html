@@ -14,8 +14,16 @@
     <div class="span4"></div>
     <div class="span4">
       <div id="new_ingredient_container" class="input-append">
-        <input type="text" id="new_ingredient_field" placeholder="Type an ingredient name..." autocomplete="off">
-        <button id="add_ingredient" class="btn btn-primary">Add</button>
+        <form id="add_ingredient_form">
+          <input type="text" id="new_ingredient_field" placeholder="Type an ingredient name..." autocomplete="off">
+          <button id="add_ingredient" class="btn btn-primary" type="submit">Add</button>
+        </form>
+      </div>
+      <div id="ingredients_container">
+        <span>Your Ingredients: </span>
+      </div>
+      <h4>Recipes:</h4>
+      <div id="recipes_container">
       </div>
     </div>
     <div class="span4"></div>
