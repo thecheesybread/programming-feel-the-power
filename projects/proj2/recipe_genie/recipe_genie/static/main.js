@@ -20,8 +20,12 @@ $(document).ready(function() {
       recipes = JSON.parse(res);
       var max = Math.min(recipes.length, 30);
       for (var i = 0; i < max; i++) {
+        var percentStr = '';
+        if (recipes[i]['percent'] !== undefined) {
+          percentStr = ' (' + recipes[i]['percent'] + '% of ingredients)';
+        }
         var recipeLink = '<a href="' + recipes[i]['url'] + '">' +
-          recipes[i]['title'] + '</a><br>'
+          recipes[i]['title'] + '</a>' + percentStr + '<br>';
         $('#recipes_container').append(recipeLink);
       }
     });
@@ -29,8 +33,7 @@ $(document).ready(function() {
 
   var addIngredient = function() {
     var ingredient = $('#new_ingredient_field').val();
-    if (allIngredients.indexOf(ingredient) !== -1 &&
-        currentIngredients.indexOf(ingredient) === -1) {
+    if (currentIngredients.indexOf(ingredient) === -1) {
       currentIngredients.push(ingredient);
       var ingredientSpan = '<span class="ingredient">' + ingredient +
         '<button class="close">&times;</button></span>';
